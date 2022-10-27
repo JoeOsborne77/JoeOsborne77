@@ -1,7 +1,21 @@
 # JOE OSBORNE
-### :envelope: joeosborne77@gmail.com :iphone: 07498470171
---------------------------------------------------------------------------------------------------------------------------------------------
-[**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies) | [**LINKEDIN**](https://www.linkedin.com/in/joe-osborne-998813116/) | [**BLOG**](https://medium.com/@joeosborne77)
+ 
+### :envelope: joeosborne77@gmail.com |:iphone: 07498470171
+
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.linkedin.com/in/joe-osborne-998813116/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://medium.com/@joeosborne77)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecademy.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codecademy.com/profiles/joeOsborne4015426741)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codewars.com/users/Tardigrade77)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.instagram.com/joeosborne77/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://open.spotify.com/artist/7syrrw6hvfxcleSLpQOGTX?si=DS3HFeJWR3iodqXSNGPGpA)
+  
+
+<br />
+
+--------------------------------------------------------------------------------------------------------------------------------------------  
+
+[**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies) | [**CREATIVE PURSUITS**](https://linktr.ee/joeosborne77)
+
 
 ## ABOUT
 👋 I'm Joe, an aspiring dev based in London, UK👨‍💻. Learning Ruby, SQL, Javascript, HTML, CSS and more [@makersacademy](https://makers.tech/).
