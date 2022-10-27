@@ -31,8 +31,7 @@
 
 
 
-INTERESTS - 🌎 🌱🪸🫂 🎵🥋🥊 🍲🤿
-[CREATIVE PURSUITS](https://linktr.ee/joeosborne77)
+### INTERESTS - 🌎 🌱🪸🫂 🎵🥋🥊 🍲🤿
 
 <!--
 **JoeOsborne77/JoeOsborne77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
