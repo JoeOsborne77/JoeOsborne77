@@ -69,10 +69,13 @@ Bugs / SEs Orchard
 
 ## PROJECTS
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description             | Tech/tools             |
+| ---------------------------- | ----------------------- | ---------------------- |
+| **[Notes App (Week 7)](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)**        | A webapp to Post notes. | Javascript, HTML, CSS. |
+
+### NOTES APP
+<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="500" height="300">
+
 
 ## WORK EXPERIENCE
 
