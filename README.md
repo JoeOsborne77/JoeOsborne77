@@ -7,7 +7,6 @@
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecademy.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codecademy.com/profiles/joeOsborne4015426741)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codewars.com/users/Tardigrade77)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.instagram.com/joeosborne77/)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://open.spotify.com/artist/7syrrw6hvfxcleSLpQOGTX?si=DS3HFeJWR3iodqXSNGPGpA)
   
 
 <br />
