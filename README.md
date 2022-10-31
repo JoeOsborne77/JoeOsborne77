@@ -72,10 +72,13 @@ Bugs / SEs Orchard
 | Name                         | Description             | Tech/tools             |
 | ---------------------------- | ----------------------- | ---------------------- |
 | **[Notes App (Week 7)](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)**        | A webapp to Post notes. | Javascript, HTML, CSS. |
+**[News Challenge (Week 7)](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A new feed using the Guardian's Api | Javascript, HTML, CSS. |
 
-### NOTES APP
-<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="500" height="300">
+### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
+<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="300" height="175">
 
+### [NEW CHALLENGE](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)
+<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/NewsChallenge/GIF-2022-10-30-23-44-23%202.gif" width="300" height="175" />
 
 ## WORK EXPERIENCE
 
