@@ -18,9 +18,11 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------  
 
-
 ## ABOUT
 👋 I'm Joe, an aspiring dev based in London, UK👨‍💻. Learning Ruby, SQL, Javascript, HTML, CSS and more [@makersacademy](https://makers.tech/).
+Well versed in best practises in TDD and an Object-Oriented approach to programming in JavaScript & Ruby, specifically utilising RSpec, Jest & Cypress. Accustomed to following Agile workflow whilst pair programming and taking part in team projects. Able to write efficient, clean and easily maintainable code. Some experience with Behaviour-driven development. A creative thinker and team player with a strong work ethic. Passionate about seeing people and businesses grow.
+
+Prior to the switch I was a senior strategist and marketeer with over 8+ years of experience in B2C marketing and delivering multi-channel marketing solutions. Well versed in agency account management, client relations, digital marketing, data analysis, project management, social media, channel management, strategic planning, content marketing, direct marketing and more.
 
 ### ⭐ [GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
 
@@ -100,10 +102,9 @@ _Senior Strategy and Marketing Manager_
 
 ## Skills
 
-- Data anyalysis 
-- Discerment of clients needs 
-- Empathy 
-- CRM Strategy 
+Software Engineering Skills: Jest · Cypress · Sinatra · Express.js · Node.js · React.js · Twilio · Hypertext Transfer Protocol (HTTP) · MongoDB · Heroku · PostgreSQL · HTML · RSpec · Ruby on Rails · Ruby · JavaScript
+
+Wider Skills: Data anyalysis · Discerment of clients needs · Empathy · CRM Strategy 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
