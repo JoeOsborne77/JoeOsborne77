@@ -19,7 +19,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------  
 
 ## ABOUT
-👋 I'm Joe, an aspiring dev based in London, UK👨‍💻. Learning Ruby, SQL, Javascript, HTML, CSS and more [@makersacademy](https://makers.tech/).
+👋 I'm Joe, a junior dev based in London, UK👨‍💻. Learning Ruby, SQL, Javascript, HTML, CSS and more [@makersacademy](https://makers.tech/).
 Well versed in best practises in TDD and an Object-Oriented approach to programming in JavaScript & Ruby, specifically utilising RSpec, Jest & Cypress. Accustomed to following Agile workflow whilst pair programming and taking part in team projects. Able to write efficient, clean and easily maintainable code. Some experience with Behaviour-driven development. A creative thinker and team player with a strong work ethic. Passionate about seeing people and businesses grow.
 
 Prior to the switch I was a senior strategist and marketeer with over 8+ years of experience in B2C marketing and delivering multi-channel marketing solutions. Well versed in agency account management, client relations, digital marketing, data analysis, project management, social media, channel management, strategic planning, content marketing, direct marketing and more.
