@@ -6,10 +6,12 @@
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://medium.com/@joeosborne77)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecademy.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codecademy.com/profiles/joeOsborne4015426741)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codewars.com/users/Tardigrade77)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://stackoverflow.com/users/19813094/joe-osborne)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.instagram.com/joeosborne77/)
   
+<br /><br>
 
-<br />
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)  
 
 --------------------------------------------------------------------------------------------------------------------------------------------  
 
