@@ -10,6 +10,8 @@
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.instagram.com/joeosborne77/)
   
 <br /><br>
+## ABOUT
+👋 I'm Joe, a Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at The Orchard/Sony Music, I decided on a change in trajectory and am about to complete the 12 week Software Engineering course at [@makersacademy](https://makers.tech/). Although I am very much at the start of my developing journey, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. Creative thinking, absorbing knowledge and problem solving are all highly enjoyable for me and I enjoy contributing individually and as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Please feel free to have a look at my projects and reach out via my contact details above.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)  
 
@@ -19,10 +21,6 @@
 <br />
 
 --------------------------------------------------------------------------------------------------------------------------------------------  
-
-## ABOUT
-👋 I'm Joe, a Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at The Orchard/Sony Music, I decided on a change in trajectory and am about to complete the 12 week Software Engineering course at [@makersacademy](https://makers.tech/). Although I am very much at the start of my developing journey, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. Creative thinking, absorbing knowledge and problem solving are highly enjoyable for me and I enjoy contributing individually and as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Please feel free to have a look at my projects and reach out via my contact details above.
-
 ##### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
 ##### ⭐ [MAKERS ACADEMY: PROJECTS](https://github.com/JoeOsborne77/MakersComplete)
 
