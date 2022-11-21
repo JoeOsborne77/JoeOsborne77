@@ -1,4 +1,4 @@
-# JOE OSBORNE - IN CONSTRUCTION
+# JOE OSBORNE 
  
 ### :envelope: joeosborne77@gmail.com  :iphone: 07498470171
 
@@ -21,10 +21,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------  
 
 ## ABOUT
-👋 I'm Joe, a junior dev based in London, UK👨‍💻. Learning Ruby, SQL, Javascript, HTML, CSS and more [@makersacademy](https://makers.tech/).
-Well versed in best practises in TDD and an Object-Oriented approach to programming in JavaScript & Ruby, specifically utilising RSpec, Jest & Cypress. Accustomed to following Agile workflow whilst pair programming and taking part in team projects. Able to write efficient, clean and easily maintainable code. Some experience with Behaviour-driven development. A creative thinker and team player with a strong work ethic. Passionate about seeing people and businesses grow.
-
-Prior to the switch I was a senior strategist and marketeer with over 8+ years of experience in B2C marketing and delivering multi-channel marketing solutions. Well versed in agency account management, client relations, digital marketing, data analysis, project management, social media, channel management, strategic planning, content marketing, direct marketing and more.
+👋 I'm Joe, a Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at The Orchard/Sony Music, I decided on a change in trajectory and am about to complete the 12 week Software Engineering course at [@makersacademy](https://makers.tech/). Although I am very much at the start of my developing journey, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. Creative thinking, absorbing knowledge and problem solving are highly enjoyable for me and I enjoy contributing individually and as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Please feel free to have a look at my projects and reach out via my contact details above.
 
 ### ⭐ [GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
 
@@ -34,40 +31,36 @@ Prior to the switch I was a senior strategist and marketeer with over 8+ years o
 
 
 
-### INTERESTS - 🌎 🌱🪸🫂 🎵🥋🥊 🍲🤿
+### INTERESTS
+- 🌎 🌱 🚲 Trying to reduce my carbon footprint on a daily basis
+- 🪸🤿 Last year I became a qualified scuba diver, which was life changing!
+- 🫂 🎵 📖 I find story telling in all manner of art forms incredibly engaging
+- 🥋🥊 Looking after my mind and body through exercise is and has been a passion of mine for the last 16 years
+- 🍲🍝 Taking time out to cook brings me a lot of joy. I enjoy trying to create new dishes and learning about new cuisines regularly
+- 🧘 Mental health is very important to me and I desire to be a positive force in the world. I was a Mental Health First Aider in my previous career
 
 <!--
-**JoeOsborne77/JoeOsborne77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JoeOsborne77/JoeOsborne77** 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on... My final group project at Makers: An app which allows people to see how their local MP has voted historically. The App also gives them the ability to email MP's directly and gives them realtime notifications when they place a new vote. 
+- 🌱 I’m currently learning... React, React Native, Cypress, Javascript, Ruby and more (see below)
+- 👯 I’m looking to collaborate on... Predominantly open source projects within the realms of Tech For Good, Music and Home Automation
+- 🤔 I’m looking for help with... Learning about the tech industry and how I can find my place within it
+- 💬 Ask me about... Anything! 
+- 📫 How to reach me... email: joeosborne77@gmail.com 
+- 😄 Pronouns... He/Him
+- ⚡ Fun fact... I can make several animal noises, including a quite convincing Dolphin
 -->
 
+ACHIEVEMENTS
+Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe. One of my last campaigns saw an increase in social media subscribers by 200%. I managed six figure budgets and created highly profitable marketing campaigns.
 
-I am a dedicated and hard working Junior Software Engineer with a passion for learning and new tech. I am now seeking a position where I can develop my knowledge and further my skillset. 
+CHARITABLE WORK
+Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis 
+In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
-Charitable work - road to freedom, shelter etc. 
 Mental health 
-Data analysis 
-Introduced new process 
-Soft skills 
-Platinum singles 
-Digital Marketing strategies
-Intersection between music and tech 
-Classically trained guitarist - grade 8 
-CRM Strategy 
-Operations 
-Bugs / SEs Orchard
+
 
 
 ## PROJECTS
@@ -101,6 +94,16 @@ _Senior Strategy and Marketing Manager_
 - Be a dependable point of contact for all clients 
 - CRM Strategy - Organise website launches, write newsletters, grow subscriber lists
 - Create, organise and execute all forms of marketing activations
+- Data analysis 
+Introduced new process 
+Soft skills 
+Platinum singles 
+Digital Marketing strategies
+Intersection between music and tech 
+Classically trained guitarist - grade 8 
+CRM Strategy 
+Operations 
+Bugs / SEs Orchard
 
 ## Skills
 
