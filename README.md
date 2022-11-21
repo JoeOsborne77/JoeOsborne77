@@ -126,7 +126,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-- 
 
 #### University of Hertfordshire (_September 2011 to May 2014_)
 - Music Business - 2:1 - Modules including; Marketing & Strategy, Data Analysis, Music Technology, Law, Business Management and more
