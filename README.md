@@ -84,7 +84,7 @@ _Senior Strategy and Marketing Manager_
 
 ## Skills
 
-Software Engineering Skills: Jest · Cypress · Sinatra · Express.js · Node.js · React.js · Twilio · Hypertext Transfer Protocol (HTTP) · MongoDB · Heroku · PostgreSQL · HTML · RSpec · Ruby on Rails · Ruby · JavaScript
+Software Engineering Skills: Jest · Cypress · Sinatra · Express.js · Node.js · React.js · Twilio · Hypertext Transfer Protocol (HTTP) · MongoDB · Heroku · PostgreSQL · TablePlus · HTML · RSpec · Ruby · JavaScript · CSS · Firebase · Git/GitHub 
 
 Wider Skills: Data anyalysis · Discerment of clients needs · Empathy · CRM Strategy 
 
@@ -127,12 +127,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 - 
-JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest, Jasmine)
-Ruby (Rails, Sinatra, RSpec, Capybara)
-SQL (PostgreSQL, TablePlus)
-HTML, CSS 
-Heroku
-Git, GitHub (including Pages and Actions), GitLab, Firebase
 
 #### University of Hertfordshire (_September 2011 to May 2014_)
 - Music Business - 2:1 - Modules including; Marketing & Strategy, Data Analysis, Music Technology, Law, Business Management and more
