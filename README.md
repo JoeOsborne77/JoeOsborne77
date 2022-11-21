@@ -29,16 +29,6 @@
 
 ### ⭐ [CV](https://github.com/JoeOsborne77/CV)
 
-
-
-### INTERESTS
-- 🌎 🌱 🚲 Trying to reduce my carbon footprint on a daily basis
-- 🪸🤿 Last year I became a qualified scuba diver, which was life changing!
-- 🫂 🎵 📖 I find story telling in all manner of art forms incredibly engaging
-- 🥋🥊 Looking after my mind and body through exercise is and has been a passion of mine for the last 16 years
-- 🍲🍝 Taking time out to cook brings me a lot of joy. I enjoy trying to create new dishes and learning about new cuisines regularly
-- 🧘 Mental health is very important to me and I desire to be a positive force in the world. I was a Mental Health First Aider in my previous career
-
 <!--
 **JoeOsborne77/JoeOsborne77** 
 
@@ -59,9 +49,6 @@ CHARITABLE WORK
 Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis 
 In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
 
-Mental health 
-
-
 
 ## PROJECTS
 
@@ -81,29 +68,21 @@ Mental health
 **The Orchard, Sony Music** (May 2014 to August 2022)  
 _Senior Strategy and Marketing Manager_
 
-- Ran marketing campaigns and managed multi-million pound budgets 
+- Ran marketing campaigns and managed six figure budgets 
 - Led PR's, Video Directors, Graphic Designers, Photographers, Radio Pluggers, Digital Account Managers and Digital Marketing Teams 
 - Created content for, ran and grew artist social media channels 
 - Presented recaps of campaigns to entire business (300+) 
 - Worked closely with streaming partners to collaborate on marketing activations
 - Worked with brands, sync and other wider teams to further promote our client's releases 
-- Worked closely with artists and management to help them achieve their creative goals
-- In depth data analysis of projects in order to identify trends and encourage growth
-- Stay on top of new forms of media and educate artists to ensure they are exploiting them to the best of their ability 
-- Expand campaigns internationally and hire relevant international promo teams
-- Be a dependable point of contact for all clients 
-- CRM Strategy - Organise website launches, write newsletters, grow subscriber lists
-- Create, organise and execute all forms of marketing activations
-- Data analysis 
-Introduced new process 
-Soft skills 
-Platinum singles 
-Digital Marketing strategies
-Intersection between music and tech 
-Classically trained guitarist - grade 8 
-CRM Strategy 
-Operations 
-Bugs / SEs Orchard
+- Collaborated closely with artists and management to help them achieve their creative goals
+- Undertook in depth data analysis of projects in order to identify trends and encourage growth
+- Stayed on top of new forms of media and educate artists to ensure they are exploiting them to the best of their ability 
+- Expanded campaigns internationally and hired relevant international promo teams
+- Was a dependable point of contact for all clients 
+- CRM Strategy - Organised website launches, wrote newsletters and grew subscriber lists
+- Created, organised and executed all forms of marketing activations
+- Introduced new processes which improved efficency and team morale
+- Liased with R&D team to highlight and solve bugs 
 
 ## Skills
 
@@ -140,7 +119,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## EDUCATION
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (_August 2022 - December 2022_)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -158,6 +137,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## HOBBIES
-Boxing, gym, cooking, running, cycling, yoga, learning Spanish!, songwriting, classically trained guitarist
-Any cool stuff that makes you a super part of a software development team
+## HOBBIES AND INTERESTS
+- 🌎 🌱 🚲 Trying to reduce my carbon footprint on a daily basis
+- 🪸🤿 Last year I became a qualified scuba diver, which was life changing!
+- 🫂 🎵 📖 I find story telling in all manner of art forms incredibly engaging
+- 🥋🥊 Looking after my mind and body through exercise is and has been a passion of mine for the last 16 years
+- 🍲🍝 Taking time out to cook brings me a lot of joy. I enjoy trying to create new dishes and learning about new cuisines regularly
+- 🧘 Mental health is very important to me and I desire to be a positive force in the world. I was a trained Mental Health First Aider in my previous role
