@@ -1,4 +1,4 @@
-# JOE OSBORNE 
+# JOE OSBORNE
  
 ### :envelope: joeosborne77@gmail.com  :iphone: 07498470171
 
@@ -40,7 +40,9 @@
 -->
 
 ### ACHIEVEMENTS
-Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe. One of my last campaigns saw an increase in social media subscribers by 200%. I managed six figure budgets and created highly profitable marketing campaigns.
+- Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
+- One of my last campaigns saw an increase in social media subscribers by 200%
+- I managed six figure budgets and created highly profitable marketing campaigns
 
 ### CHARITABLE WORK
 - Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
@@ -87,6 +89,7 @@ _Senior Strategy and Marketing Manager_
 Software Engineering Skills: Jest · Cypress · Sinatra · Express.js · Node.js · React.js · Twilio · Hypertext Transfer Protocol (HTTP) · MongoDB · Heroku · PostgreSQL · HTML · RSpec · Ruby on Rails · Ruby · JavaScript
 
 Wider Skills: Data anyalysis · Discerment of clients needs · Empathy · CRM Strategy 
+
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
@@ -125,20 +128,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- 
+JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest, Jasmine)
+Ruby (Rails, Sinatra, RSpec, Capybara)
+SQL (PostgreSQL, TablePlus)
+HTML, CSS 
+Heroku
+Git, GitHub (including Pages and Actions), GitLab, Firebase
 
 #### University of Hertfordshire (_September 2011 to May 2014_)
-
 - Music Business - 2:1 - Modules including; Marketing & Strategy, Data Analysis, Music Technology, Law, Business Management and more
-- Other cool stuff
 
 #### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Qualified Scuba Diver (PADI)
+- Grade 6 Classical Guitarist 
+- Mental Health First Aider (trained at Sony Music)
 
 ## HOBBIES AND INTERESTS
 - 🌎 🌱 🚲 Trying to reduce my carbon footprint on a daily basis
 - 🪸🤿 Last year I became a qualified scuba diver, which was life changing!
 - 🫂 🎵 📖 I find story telling in all manner of art forms incredibly engaging
+- 🖋️ Writing, in the form of [songs, blogs and books](https://linktr.ee/joeosborne77)
 - 🥋🥊 Looking after my mind and body through exercise is and has been a passion of mine for the last 16 years
 - 🍲🍝 Taking time out to cook brings me a lot of joy. I enjoy trying to create new dishes and learning about new cuisines regularly
 - 🧘 Mental health is very important to me and I desire to be a positive force in the world. I was a trained Mental Health First Aider in my previous role
