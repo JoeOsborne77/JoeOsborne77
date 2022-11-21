@@ -15,7 +15,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------  
 
-[**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies) | [**CREATIVE PURSUITS**](https://linktr.ee/joeosborne77)
+[**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES AND INTERESTS**](#hobbies-and-interests) | [**CREATIVE PURSUITS**](https://linktr.ee/joeosborne77)
 <br />
 
 --------------------------------------------------------------------------------------------------------------------------------------------  
@@ -23,11 +23,8 @@
 ## ABOUT
 👋 I'm Joe, a Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at The Orchard/Sony Music, I decided on a change in trajectory and am about to complete the 12 week Software Engineering course at [@makersacademy](https://makers.tech/). Although I am very much at the start of my developing journey, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. Creative thinking, absorbing knowledge and problem solving are highly enjoyable for me and I enjoy contributing individually and as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Please feel free to have a look at my projects and reach out via my contact details above.
 
-### ⭐ [GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
-
-### ⭐ [PROJECTS](https://github.com/JoeOsborne77/MakersComplete)
-
-### ⭐ [CV](https://github.com/JoeOsborne77/CV)
+##### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
+##### ⭐ [MAKERS ACADEMY: PROJECTS](https://github.com/JoeOsborne77/MakersComplete)
 
 <!--
 **JoeOsborne77/JoeOsborne77** 
@@ -42,12 +39,13 @@
 - ⚡ Fun fact... I can make several animal noises, including a quite convincing Dolphin
 -->
 
-ACHIEVEMENTS
+### ACHIEVEMENTS
 Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe. One of my last campaigns saw an increase in social media subscribers by 200%. I managed six figure budgets and created highly profitable marketing campaigns.
 
-CHARITABLE WORK
-Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis 
-In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
+### CHARITABLE WORK
+- Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
+
+- In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
 
 
 ## PROJECTS
