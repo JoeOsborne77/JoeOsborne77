@@ -38,16 +38,6 @@
 - ⚡ Fun fact... I can make several animal noises, including a quite convincing Dolphin
 -->
 
-### ACHIEVEMENTS AND CHARITABLE WORK
-- Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
-- In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
-- Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
-- One of my last campaigns saw an increase in social media subscribers by 200%
-- Managed six figure budgets & created profitable marketing campaigns
-- Handled large sets of data & multiple metadata ingestions
-- Undertook in depth data analysis on a day to day basis
-- Worked closely with CRM teams to strategise campaigns & content rollout 
-
 ## PROJECTS
 
 | Name                         | Description             | Tech/tools             |
@@ -66,27 +56,6 @@
 ### [NEW CHALLENGE](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)
 <img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/NewsChallenge/GIF-2022-10-30-23-44-23%202.gif" width="300" height="175" />
 
-## WORK EXPERIENCE
-
-**The Orchard, Sony Music** (May 2014 to August 2022)  
-_Senior Strategy and Marketing Manager_
-
-- Ran marketing campaigns and managed six figure budgets 
-- Led PR's, Video Directors, Graphic Designers, Photographers, Radio Pluggers, Digital Account Managers and Digital Marketing Teams 
-- Created content for, ran and grew artist social media channels 
-- Presented recaps of campaigns to entire business (300+) 
-- Worked closely with streaming partners to collaborate on marketing activations
-- Worked with brands, sync and other wider teams to further promote our client's releases 
-- Collaborated closely with artists and management to help them achieve their creative goals
-- Undertook in depth data analysis of projects in order to identify trends and encourage growth
-- Stayed on top of new forms of media and educate artists to ensure they are exploiting them to the best of their ability 
-- Expanded campaigns internationally and hired relevant international promo teams
-- Was a dependable point of contact for all clients 
-- CRM Strategy - Organised website launches, wrote newsletters and grew subscriber lists
-- Created, organised and executed all forms of marketing activations
-- Introduced new processes which improved efficency and team morale
-- Handled large forms of metadata and organised product ingestions 
-- Liased with R&D team to highlight and solve bugs 
 
 ## Skills
 
@@ -121,6 +90,38 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+
+### ACHIEVEMENTS AND CHARITABLE WORK
+- Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
+- In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
+- Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
+- One of my last campaigns saw an increase in social media subscribers by 200%
+- Handled large sets of data & multiple metadata ingestions
+- Undertook in depth data analysis on a day to day basis
+- Worked closely with CRM teams to strategise campaigns & content rollout 
+
+## WORK EXPERIENCE
+
+**The Orchard, Sony Music** (May 2014 to August 2022)  
+_Senior Strategy and Marketing Manager_
+
+- Ran marketing campaigns and managed six figure budgets 
+- Led PR's, Video Directors, Graphic Designers, Photographers, Radio Pluggers, Digital Account Managers and Digital Marketing Teams 
+- Created content for, ran and grew artist social media channels 
+- Presented recaps of campaigns to entire business (300+) 
+- Worked closely with streaming partners to collaborate on marketing activations
+- Worked with brands, sync and other wider teams to further promote our client's releases 
+- Collaborated closely with artists and management to help them achieve their creative goals
+- Undertook in depth data analysis of projects in order to identify trends and encourage growth
+- Stayed on top of new forms of media and educate artists to ensure they are exploiting them to the best of their ability 
+- Expanded campaigns internationally and hired relevant international promo teams
+- Was a dependable point of contact for all clients 
+- CRM Strategy - Organised website launches, wrote newsletters and grew subscriber lists
+- Created, organised and executed all forms of marketing activations
+- Introduced new processes which improved efficency and team morale
+- Handled large forms of metadata and organised product ingestions 
+- Liased with R&D team to highlight and solve bugs 
 
 ## EDUCATION
 
