@@ -28,8 +28,8 @@
 <!--
 **JoeOsborne77/JoeOsborne77** 
 
-- 🔭 I’m currently working on... My final group project at Makers: An app which allows people to see how their local MP has voted historically. The App also gives them the ability to email MP's directly and gives them realtime notifications when they place a new vote. 
-- 🌱 I’m currently learning... React, React Native, Cypress, Javascript, Ruby and more (see below)
+- 🔭 I’m currently working on... Automating my lights and blinds at home + a cool little App using Spotify's API 
+- 🌱 I’m currently learning... React, React Native, Cypress, Python and more (see below)
 - 👯 I’m looking to collaborate on... Predominantly open source projects within the realms of Tech For Good, Music and Home Automation
 - 🤔 I’m looking for help with... Learning about the tech industry and how I can find my place within it
 - 💬 Ask me about... Anything! 
@@ -38,16 +38,18 @@
 - ⚡ Fun fact... I can make several animal noises, including a quite convincing Dolphin
 -->
 
-### ACHIEVEMENTS
+### ACHIEVEMENTS AND CHARITABLE WORK
+- Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
+- In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
 - Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
 - One of my last campaigns saw an increase in social media subscribers by 200%
 - I managed six figure budgets and created highly profitable marketing campaigns
-
-### CHARITABLE WORK
-- Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
-
-- In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
-
+- Secured platinum for releases by; Russ Millions, , Skepta, Jorja Smith & JP Saxe
+- Increased social media subscribers by 200% for Pip Millett
+- Managed six figure budgets & created profitable marketing campaigns
+- Handled large sets of data & multiple metadata ingestions
+- Undertook in depth data analysis on a day to day basis
+- Worked closely with CRM teams to strategise campaigns & content rollout 
 
 ## PROJECTS
 
