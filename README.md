@@ -43,9 +43,6 @@
 - In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
 - Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
 - One of my last campaigns saw an increase in social media subscribers by 200%
-- I managed six figure budgets and created highly profitable marketing campaigns
-- Secured platinum for releases by; Russ Millions, , Skepta, Jorja Smith & JP Saxe
-- Increased social media subscribers by 200% for Pip Millett
 - Managed six figure budgets & created profitable marketing campaigns
 - Handled large sets of data & multiple metadata ingestions
 - Undertook in depth data analysis on a day to day basis
@@ -88,6 +85,7 @@ _Senior Strategy and Marketing Manager_
 - CRM Strategy - Organised website launches, wrote newsletters and grew subscriber lists
 - Created, organised and executed all forms of marketing activations
 - Introduced new processes which improved efficency and team morale
+- Handled large forms of metadata and organised product ingestions 
 - Liased with R&D team to highlight and solve bugs 
 
 ## Skills
