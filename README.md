@@ -22,8 +22,8 @@
 <br />
 
 --------------------------------------------------------------------------------------------------------------------------------------------  
-##### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
-##### ⭐ [MAKERS ACADEMY: PROJECTS](https://github.com/JoeOsborne77/MakersComplete)
+#### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
+#### ⭐ [MAKERS ACADEMY: PROJECTS](https://github.com/JoeOsborne77/MakersComplete)
 
 <!--
 **JoeOsborne77/JoeOsborne77** 
@@ -53,13 +53,13 @@
 
 | Name                         | Description             | Tech/tools             |
 | ---------------------------- | ----------------------- | ---------------------- |
-**[Chitter Challenge](https://github.com/JoeOsborne77/chitter-challenge)** | A clone of Twitter | Ruby, SQL, RSpec |
-**[MakersBnB Challenge](https://github.com/JoeOsborne77/makersbnb-ruby-seed)** | A clone of Airbnb | Active Record, BCrypt, PostgreSQL, Ruby, RSpec |
-| **[Notes App](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)** | A eb app allowing users to post notes | Javascript, Jest, HTML, CSS 
-| **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A news feed app using the Guardian's Api | Javascript, Jest, HTML, CSS
-| **[Acebook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A clone of Facebook | Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress
-| **[Vote Watch](https://github.com/tomallens/votewatch)** | A mobile App which allows users to see MP's voting record | PostgreSQL, Express, React Native, Node, Javascript|
-
+**[Chitter Challenge](https://github.com/JoeOsborne77/chitter-challenge)** | A clone of Twitter where users can sign up, login, logout, see previous 'peeps' and post their own 'peeps' with images  | Ruby, SQL, RSpec |
+**[MakersBnB Challenge](https://github.com/JoeOsborne77/makersbnb-ruby-seed)** | A clone of Airbnb where users can signup, login, signout, upload a place to stay with images, book a place to stay and more | Active Record, BCrypt, PostgreSQL, Ruby, RSpec |
+| **[Bowling Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6/bowling)** | A Bowling program with multiple classes to correctly score a 10 frame game of bowling | Javascript, Jest
+| **[Notes App](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)** | A simple web app allowing users to post notes | Javascript, Jest, HTML, CSS 
+| **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A news feed app using the Guardian's Api with search functionality, allowing users to filter results. Images and links go direclty to the relevant Guardian page | Javascript, Jest, HTML, CSS
+| **[Acebook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase
+| **[Vote Watch](https://github.com/tomallens/votewatch)** | A mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript|
 
 ### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
 <img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="300" height="175">
