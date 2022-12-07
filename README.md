@@ -18,7 +18,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------  
 
-[**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES AND INTERESTS**](#hobbies-and-interests) | [**CREATIVE PURSUITS**](https://linktr.ee/joeosborne77) | [**CV**](https://drive.google.com/file/d/1h6xGSix4mQL_-waM3C05gGzc6OQWa5rV/view?usp=share_link)
+[**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES AND INTERESTS**](#hobbies-and-interests) | [**CREATIVE PURSUITS**](https://linktr.ee/joeosborne77) | [**CV**](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
 <br />
 
 --------------------------------------------------------------------------------------------------------------------------------------------  
