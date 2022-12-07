@@ -90,9 +90,9 @@ _Senior Strategy and Marketing Manager_
 
 ## Skills
 
-Software Engineering Skills: Jest · Cypress · Sinatra · Express.js · Node.js · React.js · Twilio · Hypertext Transfer Protocol (HTTP) · MongoDB · Heroku · PostgreSQL · TablePlus · HTML · RSpec · Ruby · JavaScript · CSS · Firebase · Git/GitHub · TDD · 
+Software Engineering Skills: Jest · Cypress · Sinatra · Express.js · Node.js · React.js · React Native · Twilio · HTTP · HTML · MongoDB · Heroku · PostgreSQL · TablePlus · HTML · RSpec · Ruby · JavaScript · CSS · Firebase · Git/GitHub · TDD · Firebase · EXPO · TDD / BDD ·
 
-Wider Skills: Data anyalysis · Discerment of clients needs · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy
+Wider Skills: Data anyalysis · Discerment of clients needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
