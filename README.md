@@ -46,8 +46,10 @@
 | **[Bowling Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6/bowling)** | A Bowling program with multiple classes to correctly score a 10 frame game of bowling | Javascript, Jest
 | **[Notes App](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)** | A simple web app allowing users to post notes | Javascript, Jest, HTML, CSS 
 | **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A news feed app using the Guardian's Api with search functionality, allowing users to filter results. Images and links go direclty to the relevant Guardian page | Javascript, Jest, HTML, CSS
-| **[Acebook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase
+| **[Acebook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase, Javascript
+| **[Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest)** | A simple bank program completed to test abilities on writing clean code and TDD. Program allows users to deposit and withdrawal money from a bank account. | Javascript, Jest
 | **[Vote Watch](https://github.com/tomallens/votewatch)** | A mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript|
+
 
 ### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
 <img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="300" height="175">
