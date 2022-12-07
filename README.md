@@ -53,8 +53,13 @@
 
 | Name                         | Description             | Tech/tools             |
 | ---------------------------- | ----------------------- | ---------------------- |
-| **[Notes App (Week 7)](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)**        | A webapp to Post notes. | Javascript, HTML, CSS. |
-**[News Challenge (Week 7)](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A new feed using the Guardian's Api | Javascript, HTML, CSS. |
+**[Chitter Challenge](https://github.com/JoeOsborne77/chitter-challenge)** | A clone of Twitter | Ruby, SQL, RSpec |
+**[MakersBnB Challenge](https://github.com/JoeOsborne77/makersbnb-ruby-seed)** | A clone of Airbnb | Active Record, BCrypt, PostgreSQL, Ruby, RSpec |
+| **[Notes App](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)** | A eb app allowing users to post notes | Javascript, Jest, HTML, CSS 
+| **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A news feed app using the Guardian's Api | Javascript, Jest, HTML, CSS
+| **[Acebook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A clone of Facebook | Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress
+| **[Vote Watch](https://github.com/tomallens/votewatch)** | A mobile App which allows users to see MP's voting record | PostgreSQL, Express, React Native, Node, Javascript|
+
 
 ### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
 <img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="300" height="175">
