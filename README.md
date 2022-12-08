@@ -1,19 +1,6 @@
 # JOE OSBORNE
 ###### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG & CREATIVE PURSUITS**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS**](https://github.com/JoeOsborne77/Reviews)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)  
-<br>
-
-## CONTACT
-### :envelope: joeosborne77@gmail.com | :iphone:[07498470171](https://wa.me/4407498470171) | 📝 [PDF CV](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
-
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.linkedin.com/in/joe-osborne-998813116/)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://medium.com/@joeosborne77)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecademy.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codecademy.com/profiles/joeOsborne4015426741)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codewars.com/users/Tardigrade77)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://stackoverflow.com/users/19813094/joe-osborne)
-<br><br>
-  
 ## ABOUT
 👋 I'm Joe, a Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at The Orchard/Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course at [@makersacademy](https://makers.tech/). Although I am very much at the start of my journey as an SE, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. Creative thinking, absorbing knowledge and problem solving are all highly enjoyable for me and I enjoy contributing both individually, but especially as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Please feel free to have a look at my projects and reach out via my contact details above.
 
@@ -27,21 +14,34 @@ TBC....
 - 😄 Pronouns... He/Him
 - ⚡ Fun fact... I can make several animal noises, including quite a convincing Dolphin
 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)  
 <br>
 
+## CONTACT
+### :envelope: joeosborne77@gmail.com | :iphone:[07498470171](https://wa.me/4407498470171) | 📝 [PDF CV](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
+
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.linkedin.com/in/joe-osborne-998813116/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://medium.com/@joeosborne77)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecademy.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codecademy.com/profiles/joeOsborne4015426741)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codewars.com/users/Tardigrade77)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://stackoverflow.com/users/19813094/joe-osborne)
+<br><br>
+  
 ## PROJECTS
 #### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
 
 | Name                         | Description             | Tech/tools             |
 | ---------------------------- | ----------------------- | ---------------------- |
-**[Chitter Challenge](https://github.com/JoeOsborne77/chitter-challenge)** | A clone of Twitter where users can sign up, login, logout, see previous 'peeps' and post their own 'peeps' with images  | Ruby, SQL, RSpec |
-**[MakersBnB Challenge](https://github.com/JoeOsborne77/makersbnb-ruby-seed)** | A clone of Airbnb where users can signup, login, signout, upload a place to stay with images, book a place to stay and more | Active Record, BCrypt, PostgreSQL, Ruby, RSpec |
+**[Takeaway Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_2/Weekend%20Challenges)** | A simple takeaway App which allows users to see a restaurants menu, place an order and get sent a text saying their order has been received | Ruby, Twilio, RSpec |
+**[Chitter Challenge](https://github.com/JoeOsborne77/chitter-challenge)** | A clone of Twitter where users can sign up, login, logout, see previous 'peeps' and post their own 'peeps' with images  | Ruby, SQL, RSpec, HTML, CSS, TablePlus, PostMan |
+**[MakersBnB Challenge](https://github.com/JoeOsborne77/makersbnb-ruby-seed)** | A clone of Airbnb where users can signup, login, signout, upload a place to stay with images, book a place to stay and more | Active Record, BCrypt, PostgreSQL, Ruby, RSpec, TablePlus, PostMan |
 | **[Bowling Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6/bowling)** | A Bowling program with multiple classes to correctly score a 10 frame game of bowling | Javascript, Jest
 | **[Notes App](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)** | A simple web app allowing users to post notes | Javascript, Jest, HTML, CSS 
 | **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A news feed app using the Guardian's Api with search functionality, allowing users to filter results. Images and links go direclty to the relevant Guardian page | Javascript, Jest, HTML, CSS, Guardian API
-| **[Acebook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase, Javascript
+| **[Acebook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | React, Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus, PostMan
 | **[Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest)** | A simple bank program completed to test abilities on writing clean code and TDD. Program allows users to deposit and withdrawal money from a bank account. | Javascript, Jest
-| **[Vote Watch](https://github.com/tomallens/votewatch)** | A mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs|
+| **[Vote Watch](https://github.com/tomallens/votewatch)** | A mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs, TablePlus, PostMan, EXPO |
 
 
 ### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
@@ -52,10 +52,7 @@ TBC....
 
 
 ## Skills
-
-Software Engineering Skills: Jest · Cypress · Sinatra · Express.js · Node.js · React.js · React Native · Twilio · HTTP · HTML · MongoDB · Heroku · PostgreSQL · TablePlus · HTML · RSpec · Ruby · JavaScript · CSS · Firebase · Git/GitHub · TDD · Firebase · EXPO · TDD / BDD ·
-
-Wider Skills: Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
+Wider Skills: Git/GitHub · Firebase · EXPO · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
 
 Discernment of Client Needs
 One particular example of this is when ... In this situation I ... which led me to... resulting in...
@@ -67,20 +64,28 @@ Strong Communication Skills
 One particular example of this is when ... In this situation I ... which led me to... resulting in...
 
 
-### ACHIEVEMENTS AND CHARITABLE WORK
+### VOLUNTEERING AND CHARITABLE WORK
+ I am a firm believer in giving back and have been able to utilise my professional experience and compassionate nature to help others along the way. I am hoping to continue with this work and make a difference where I can in the tech industry 
+ 
+- I was a mentor for the [Creative Mentor Network](https://www.creativementornetwork.org/), a charity which helps young people from low socio-economic backgrounds who are under-represented in the creativ industries. Over the course of a year I helped and encouraged my mentee advance in her career through weekly meetings over the course of a year. We mainly focused on expanding her network and increasing her soft skills. I also helped her with interview prep for a job which she secured.
+- The video streaming giant [Vevo](https://www.hq.vevo.com/) invited me to do a panel for [Raw Material](https://rawmusicmedia.co.uk/), a charity they had partnered with who are focused on helping young people from diverse backgrounds get into the creative industries 
 - Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
 - In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
+
+### PROFESSIONAL ACHIEVEMENTS
 - Through my marketing campaigns at Sony I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
 - One of my last campaigns saw an increase in social media subscribers by 200%
-- Handled large sets of data & multiple metadata ingestions
-- Undertook in depth data analysis on a day to day basis
-- Worked closely with CRM teams to strategise campaigns & content rollout 
 
 ## WORK EXPERIENCE
 
 **The Orchard, Sony Music** (May 2014 to August 2022)  
 _Senior Strategy and Marketing Manager_
 
+During my time at leading music, tech company [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Client Manager and for the last 5 years as a Marketing Manager. It was not uncommon for me to go above and beyond to understand my clients needs. In one instance I had three different clients all with different important events on in the evening. They all really wanted me to go so I ended up going to all three across one evening. As a client manager I was able to make use of my empathetic nature to communicate effectively with a wide range of people working in a wide range of genres and cultures. 
+
+- Handled large sets of data & multiple metadata ingestions
+- Undertook in depth data analysis on a day to day basis
+- Worked closely with CRM teams to strategise campaigns & content rollout 
 - Ran marketing campaigns and managed six figure budgets 
 - Led PR's, Video Directors, Graphic Designers, Photographers, Radio Pluggers, Digital Account Managers and Digital Marketing Teams 
 - Created content for, ran and grew artist social media channels 
