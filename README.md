@@ -45,13 +45,13 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 ## WIDER SKILLS
 Git/GitHub · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
 
-Discernment of Client Needs
+#### Discernment of Client Needs
 During my time at [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all desired my attendance so I ended up going to all three across one evening. I was able to keep all clients happy and ensure they all felt equal.
 
-Data Analysis 
+#### Data Analysis 
 When working on a particular release I noticed a very large spike in listenership in a particular city but we couldn't identify why. By digging into the data I identified the cause of the jump (there was a TikTok trend in the city using the track) and was able to capitalise on this by arranging a live marketing event including a performance from the artist very quickly. After the event we also saw a conversion from passive fans of one track into active fans who were diving into the artists catalogue.  
 
-Strong Communication Skills
+#### Strong Communication Skills
 One particular example of this is when ... In this situation I ... which led me to... resulting in...
 
 ## WORK EXPERIENCE
@@ -130,5 +130,11 @@ _Senior Strategy and Marketing Manager_
 ## CLOSING TBC
 Further integration between music and tech, as well as tech for good and how technology is changing people's lives for the better is very exciting for me and I feel privileged to live at such a time. Specifically the advancements in the mental health, general medical and environmental industries. 
 
+## REFERENCES
+Name: Shane Derozario
+Email: shane.derozario@sonymusic.com
+Title: MD, Dream Life Records
 
-
+Name: James Moodie
+Email: moodie@theorchard.com
+Title: Senior Director, The Orchard
