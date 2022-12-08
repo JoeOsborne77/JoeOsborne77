@@ -109,7 +109,7 @@ _Senior Strategy and Marketing Manager_
 - In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
 
 ## HOBBIES AND INTERESTS
-- 🔭 Currently sing a Raspberry Pi to automate my lights and blinds at home
+- 🔭 Currently using a Raspberry Pi to automate my lights and blinds at home
 - 👯 Looking to collaborate on open source projects within the realms of Tech For Good, Music and Home Automation
 - ⚡ Fun fact... I can make several animal noises, including quite a convincing Dolphin
 - ⚡ Fun fact 2... One of my favourite snacks is [doubles](https://en.wikipedia.org/wiki/Doubles_(food)), which I ate copious amounts of when learning about mocking 😎
