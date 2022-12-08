@@ -35,6 +35,9 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 | **[votewatch](https://github.com/tomallens/votewatch)** | Mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs, TablePlus, PostMan, EXPO |
 
 
+### [VOTEWATCH](https://github.com/tomallens/votewatch)
+<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/votewatch.gif" width="550" height="325" />
+
 ### [GRUMBLEBOOK](https://github.com/PatriciaGN/acebook-team-owlpaca)
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/chitter.gif" width="550" height="325" />
 
