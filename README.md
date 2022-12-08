@@ -45,10 +45,10 @@
 **[MakersBnB Challenge](https://github.com/JoeOsborne77/makersbnb-ruby-seed)** | A clone of Airbnb where users can signup, login, signout, upload a place to stay with images, book a place to stay and more | Active Record, BCrypt, PostgreSQL, Ruby, RSpec |
 | **[Bowling Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6/bowling)** | A Bowling program with multiple classes to correctly score a 10 frame game of bowling | Javascript, Jest
 | **[Notes App](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)** | A simple web app allowing users to post notes | Javascript, Jest, HTML, CSS 
-| **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A news feed app using the Guardian's Api with search functionality, allowing users to filter results. Images and links go direclty to the relevant Guardian page | Javascript, Jest, HTML, CSS
+| **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | A news feed app using the Guardian's Api with search functionality, allowing users to filter results. Images and links go direclty to the relevant Guardian page | Javascript, Jest, HTML, CSS, Guardian API
 | **[Acebook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | A clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase, Javascript
 | **[Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest)** | A simple bank program completed to test abilities on writing clean code and TDD. Program allows users to deposit and withdrawal money from a bank account. | Javascript, Jest
-| **[Vote Watch](https://github.com/tomallens/votewatch)** | A mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript|
+| **[Vote Watch](https://github.com/tomallens/votewatch)** | A mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs|
 
 
 ### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
@@ -62,35 +62,17 @@
 
 Software Engineering Skills: Jest · Cypress · Sinatra · Express.js · Node.js · React.js · React Native · Twilio · HTTP · HTML · MongoDB · Heroku · PostgreSQL · TablePlus · HTML · RSpec · Ruby · JavaScript · CSS · Firebase · Git/GitHub · TDD · Firebase · EXPO · TDD / BDD ·
 
-Wider Skills: Data anyalysis · Discerment of clients needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
+Wider Skills: Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+Discernment of Client Needs
+One particular example of this is when ... In this situation I ... which led me to... resulting in...
 
--STAR
--What was the situation/task? (ST)
+Data Analysis 
+One particular example of this is when ... In this situation I ... which led me to... resulting in...
 
--How was the skill used?
+Strong Communication Skills
+One particular example of this is when ... In this situation I ... which led me to... resulting in...
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ### ACHIEVEMENTS AND CHARITABLE WORK
 - Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
