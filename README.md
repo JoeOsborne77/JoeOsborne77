@@ -10,15 +10,14 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 <br>
 
 ## CONTACT
-### :envelope: joeosborne77@gmail.com | :iphone:[07498470171](https://wa.me/4407498470171) 
-
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.linkedin.com/in/joe-osborne-998813116/)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://medium.com/@joeosborne77)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecademy.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codecademy.com/profiles/joeOsborne4015426741)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codewars.com/users/Tardigrade77)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://stackoverflow.com/users/19813094/joe-osborne)
-<br><br>
-  
+<br>
+### :envelope: joeosborne77@gmail.com | :iphone:[07498470171](https://wa.me/4407498470171) 
+<br>  
 ## PROJECTS
 #### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
 
