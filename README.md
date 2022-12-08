@@ -2,7 +2,7 @@
 #### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES AND INTERESTS**](#hobbies-and-interests) | [**CREATIVE PURSUITS**](https://linktr.ee/joeosborne77)
 
 
-- 🔭 I’m currently working on... Automating my lights and blinds at home + a cool little App using Spotify's API 
+- 🔭 I’m currently working on... Automating my lights and blinds at home
 - 🌱 I’m currently learning... React, React Native, Cypress, Python and more (see below)
 - 👯 I’m looking to collaborate on... Predominantly open source projects within the realms of Tech For Good, Music and Home Automation
 - 🤔 I’m looking for help with... Learning about the tech industry and how I can find my place within it
