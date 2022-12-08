@@ -1,6 +1,16 @@
 # JOE OSBORNE
 #### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES AND INTERESTS**](#hobbies-and-interests) | [**CREATIVE PURSUITS**](https://linktr.ee/joeosborne77)
 
+
+- 🔭 I’m currently working on... Automating my lights and blinds at home + a cool little App using Spotify's API 
+- 🌱 I’m currently learning... React, React Native, Cypress, Python and more (see below)
+- 👯 I’m looking to collaborate on... Predominantly open source projects within the realms of Tech For Good, Music and Home Automation
+- 🤔 I’m looking for help with... Learning about the tech industry and how I can find my place within it
+- 💬 Ask me about... Anything! 
+- 📫 How to reach me... email: joeosborne77@gmail.com 
+- 😄 Pronouns... He/Him
+- ⚡ Fun fact... I can make several animal noises, including quite a convincing Dolphin
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)  
 <br>
 
@@ -17,15 +27,6 @@
 ## ABOUT
 👋 I'm Joe, a Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at The Orchard/Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course at [@makersacademy](https://makers.tech/). Although I am very much at the start of my journey as an SE, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. Creative thinking, absorbing knowledge and problem solving are all highly enjoyable for me and I enjoy contributing both individually, but especially as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Please feel free to have a look at my projects and reach out via my contact details above.
 <br>
-
-- 🔭 I’m currently working on... Automating my lights and blinds at home + a cool little App using Spotify's API 
-- 🌱 I’m currently learning... React, React Native, Cypress, Python and more (see below)
-- 👯 I’m looking to collaborate on... Predominantly open source projects within the realms of Tech For Good, Music and Home Automation
-- 🤔 I’m looking for help with... Learning about the tech industry and how I can find my place within it
-- 💬 Ask me about... Anything! 
-- 📫 How to reach me... email: joeosborne77@gmail.com 
-- 😄 Pronouns... He/Him
-- ⚡ Fun fact... I can make several animal noises, including quite a convincing Dolphin
 
 ## PROJECTS
 #### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
