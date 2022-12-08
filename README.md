@@ -68,7 +68,7 @@ One particular example of this is when ... In this situation I ... which led me 
 **The Orchard, Sony Music** (May 2014 to August 2022)  
 _Senior Strategy and Marketing Manager_
 
-During my time at leading music, tech company [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand my clients needs. In one instance I had three different clients all with different important events on in the evening. They all really wanted me to go so I ended up going to all three across one evening. As a client manager I was able to make use of my empathetic nature to communicate effectively with a wide range of people working in a wide range of genres and cultures. 
+During my time at leading music, tech company [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all really wanted me to go so I ended up going to all three across one evening. As a client manager I was able to make use of my empathetic nature to communicate effectively with a wide range of people working in a wide range of genres and cultures. 
 
 - Through my marketing campaigns I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
 - One of my last campaigns saw an increase in social media subscribers by 200%
