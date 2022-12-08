@@ -36,7 +36,7 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 
 
 ### [VOTEWATCH](https://github.com/tomallens/votewatch)
-<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/vw.gif" width="325" height="550" />
+<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/vww.gif" width="325" height="550" />
 
 ### [GRUMBLEBOOK](https://youtu.be/2zSq7HvZg3g)
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/grumbleBook.jpg" width="550" height="325" />
