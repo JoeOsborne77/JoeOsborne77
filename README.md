@@ -42,7 +42,7 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 <img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="300" height="175">
 
 ### [NEW CHALLENGE](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)
-<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/NewsChallenge/GIF-2022-10-30-23-44-23%202.gif" width="300" height="175" />
+<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/newsFeed.gif" width="550" height="325" />
 
 
 ## WIDER SKILLS
