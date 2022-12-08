@@ -1,5 +1,5 @@
 # JOE OSBORNE
-#### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#wider-skills) | [**EDUCATION**](#education) | [**EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS**](https://github.com/JoeOsborne77/Reviews) | [**VOLUNTEERING**](#VOLUNTEERING-AND-CHARITABLE-WORK)
+#### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#wider-skills) | [**EDUCATION**](#education) | [**EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS**](https://github.com/JoeOsborne77/Reviews) | [**VOLUNTEERING**](#VOLUNTEERING-AND-CHARITABLE-WORK) | [PDF CV](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
 
 ## ABOUT
 👋 I'm Joe (he/him), a Junior level Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at leading tech and music company The Orchard, Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course at @[makersacademy](https://makers.tech/). During my career I worked closely with the tools our R&D teams created (mostly data analysis and product ingestion tools), which I could see were becoming more important to my job on a daily basis. Through speaking with some of our SE’s, I became more and more intrigued by what was happening under the hood of these tools and felt ready for a new challenge. 
@@ -10,7 +10,7 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 <br>
 
 ## CONTACT
-### :envelope: joeosborne77@gmail.com | :iphone:[07498470171](https://wa.me/4407498470171) | 📝 [PDF CV](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
+### :envelope: joeosborne77@gmail.com | :iphone:[07498470171](https://wa.me/4407498470171) 
 
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.linkedin.com/in/joe-osborne-998813116/)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://medium.com/@joeosborne77)
