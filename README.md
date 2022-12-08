@@ -1,5 +1,5 @@
 # JOE OSBORNE
-###### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#wider-skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG & CREATIVE PURSUITS**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS**](https://github.com/JoeOsborne77/Reviews) | [**VOLUNTEERING**](#VOLUNTEERING-AND-CHARITABLE WORK)
+###### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#wider-skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG & CREATIVE PURSUITS**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS**](https://github.com/JoeOsborne77/Reviews) | [**VOLUNTEERING**](#VOLUNTEERING-AND-CHARITABLE-WORK)
 
 ## ABOUT
 👋 I'm Joe (he/him), a Junior level Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at leading tech and music company The Orchard, Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course at @makersacademy. During my career I worked closely with the tools our R&D teams created (mostly data analysis and product ingestion tools), which I could see were becoming more important to my job on a daily basis. I was desperate to see under the hood of some of these tools and ready for a new challenge. I am beyond excited about further integration between music and tech (especially in identifying IP + royalty collections), as well as tech for good and how technology is changing people's lives for the better. Specifically the advancements in the mental health, general medical and environmental industries, having known people who use CGM's already.
@@ -55,7 +55,7 @@ Strong Communication Skills
 One particular example of this is when ... In this situation I ... which led me to... resulting in...
 
 
-### VOLUNTEERING AND CHARITABLE WORK
+## VOLUNTEERING AND CHARITABLE WORK
  I am a firm believer in giving back and have been able to utilise my professional experience and compassionate nature to help others along the way. I am hoping to continue with this work and make a difference where I can in the tech industry 
  
 - I was a mentor for the [Creative Mentor Network](https://www.creativementornetwork.org/), a charity which helps young people from low socio-economic backgrounds who are under-represented in the creativ industries. Over the course of a year I helped and encouraged my mentee advance in her career through weekly meetings over the course of a year. We mainly focused on expanding her network and increasing her soft skills. I also helped her with interview prep for a job which she secured.
