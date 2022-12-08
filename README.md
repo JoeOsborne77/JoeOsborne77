@@ -1,5 +1,5 @@
 # JOE OSBORNE
-#### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES AND INTERESTS**](#hobbies-and-interests) | [**CREATIVE PURSUITS**](https://linktr.ee/joeosborne77)
+#### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES AND INTERESTS**](#hobbies-and-interests) | [**BLOG & OTHER CREATIVE PURSUITS**](https://linktr.ee/joeosborne77)
 
 
 - 🔭 I’m currently working on... Using a Raspberry Pi to automate my lights and blinds at home
