@@ -2,7 +2,7 @@
 #### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#wider-skills) | [**EDUCATION**](#education) | [**EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS**](https://github.com/JoeOsborne77/Reviews) | [**VOLUNTEERING**](#VOLUNTEERING-AND-CHARITABLE-WORK) | [PDF CV](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
 
 ## ABOUT
-👋 I'm Joe (he/him), a Junior level Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at leading tech and music company The Orchard, Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course at @[makersacademy](https://makers.tech/). During my career I worked closely with the tools our R&D teams created (mostly data analysis and product ingestion tools), which I could see were becoming more important to my job on a daily basis. Through speaking with some of our SE’s, I became more and more intrigued by what was happening under the hood of these tools and felt ready for a new challenge. 
+👋 I'm Joe (he/him), a Junior level Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at leading tech and music company [The Orchard](theorchard.com), Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course at @[makersacademy](https://makers.tech/). During my career I worked closely with the tools our R&D teams created (mostly data analysis and product ingestion tools), which I could see were becoming more important to my job on a daily basis. Through speaking with some of our SE’s, I became more and more intrigued by what was happening under the hood of these tools and felt ready for a new challenge. 
 
 Programming is deeply satisfying for me as it is both highly technical and creative. Having trained as a classical guitarist in my youth I have been able to find similarities between the two fields - analysing words/notation, identifying patterns and of course the need for daily practise. Creative thinking, absorbing knowledge and problem solving are all highly enjoyable for me and I like contributing individually, but especially as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Although I am very much at the start of my journey as an SE, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. 
 
@@ -46,10 +46,10 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 Git/GitHub · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
 
 Discernment of Client Needs
-One particular example of this is when ... In this situation I ... which led me to... resulting in...
+During my time at [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all desired my attendance so I ended up going to all three across one evening. I was able to keep all clients happy and ensure they all felt equal.
 
 Data Analysis 
-One particular example of this is when ... In this situation I ... which led me to... resulting in...
+When working on a particular release I noticed a very large spike in listenership in a particular city but we couldn't identify why. By digging into the data I identified the cause of the jump (there was a TikTok trend in the city using the track) and was able to capitalise on this by arranging a live marketing event including a performance from the artist very quickly. After the event we also saw a conversion from passive fans of one track into active fans who were diving into the artists catalogue.  
 
 Strong Communication Skills
 One particular example of this is when ... In this situation I ... which led me to... resulting in...
@@ -58,8 +58,6 @@ One particular example of this is when ... In this situation I ... which led me 
 
 **The Orchard, Sony Music** (May 2014 to August 2022)  
 _Senior Strategy and Marketing Manager_
-
-During my time at leading music, tech company [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all really wanted me to go so I ended up going to all three across one evening. As a client manager I was able to make use of my empathetic nature to communicate effectively with a wide range of people working in a wide range of genres and cultures. 
 
 - Through my marketing campaigns I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
 - One of my last campaigns saw an increase in social media subscribers by 200%
@@ -111,9 +109,8 @@ During my time at leading music, tech company [The Orchard](https://www.theorcha
 - In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
 
 ## HOBBIES AND INTERESTS
-- 🔭 I’m currently working on... Using a Raspberry Pi to automate my lights and blinds at home
-- 🌱 I’m currently learning... React, React Native, Cypress, Python and more (see below)
-- 👯 I’m looking to collaborate on... Predominantly open source projects within the realms of Tech For Good, Music and Home Automation
+- 🔭 Currently sing a Raspberry Pi to automate my lights and blinds at home
+- 👯 Looking to collaborate on open source projects within the realms of Tech For Good, Music and Home Automation
 - ⚡ Fun fact... I can make several animal noises, including quite a convincing Dolphin
 - ⚡ Fun fact 2... One of my favourite snacks is [doubles](https://en.wikipedia.org/wiki/Doubles_(food)), which I ate copious amounts of when learning about mocking 😎
 - 🌎 🌱 🚲 Trying to reduce my carbon footprint on a daily basis
