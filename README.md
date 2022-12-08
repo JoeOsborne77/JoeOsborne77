@@ -43,7 +43,7 @@ Programming deeply appeals to me as it is both highly technical and creative. Ha
 
 
 ## WIDER SKILLS
-Git/GitHub · Firebase · EXPO · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
+Git/GitHub · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
 
 Discernment of Client Needs
 One particular example of this is when ... In this situation I ... which led me to... resulting in...
