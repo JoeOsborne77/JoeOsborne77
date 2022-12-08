@@ -2,18 +2,7 @@
 ###### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#skills) | [**EDUCATION**](#education) | [**WORK EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG & CREATIVE PURSUITS**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS**](https://github.com/JoeOsborne77/Reviews)
 
 ## ABOUT
-👋 I'm Joe, a Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at The Orchard, Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course at [@makersacademy](https://makers.tech/). During my career I worked closely with the tools our R&D teams were creating. These were mostly data analysis and product injestion tools which were becoming more important to my job on a daily basis. I made the change as I was ready for a new challenge and was desperate to see under the hood of some of these tools. I am beyond excited about further intergration between music and tech as well as tech for good and how technology is changing peoples lives for the better. Other than music, I am very excited about the advancements in the medical/tech world, having known people who use CGM's already, as well as how technical innovation is the driving force reducing the impact of our carbon footprint. Programming appeals to me as it is both highly technical and highly creative. Having trained as a classical guitarist in my youth as soon as I started programming I started to find similarities in reading music, identifiying patterns and of course the need for daily practise. Although I am very much at the start of my journey as an SE, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. Creative thinking, absorbing knowledge and problem solving are all highly enjoyable for me and I enjoy contributing both individually, but especially as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Please feel free to have a look at my projects and reach out via my contact details above.
-
-TBC....
-- 🔭 I’m currently working on... Using a Raspberry Pi to automate my lights and blinds at home
-- 🌱 I’m currently learning... React, React Native, Cypress, Python and more (see below)
-- 👯 I’m looking to collaborate on... Predominantly open source projects within the realms of Tech For Good, Music and Home Automation
-- 🤔 I’m looking for help with... Learning about the tech industry and how I can find my place within it
-- 💬 Ask me about... Anything! 
-- 📫 How to reach me... email: joeosborne77@gmail.com 
-- 😄 Pronouns... He/Him
-- ⚡ Fun fact... I can make several animal noises, including quite a convincing Dolphin
-- ⚡ Fun fact 2... One of my favourite snacks is [doubles](https://en.wikipedia.org/wiki/Doubles_(food)), which I ate copious amounts of when learning about mocking 😎
+👋 I'm Joe (he/him), a Junior level Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at leading tech and music company The Orchard, Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course at [@makersacademy](https://makers.tech/). During my career I worked closely with the tools our R&D teams were creating. These were mostly data analysis and product injestion tools which I could see were becoming more important to my job on a daily basis. I made the change as I was ready for a new challenge and was desperate to see under the hood of some of these tools. I am beyond excited about further intergration between music and tech as well as tech for good and how technology is changing peoples lives for the better. Other than music, I am very excited about the advancements in the medical/tech world, having known people who use CGM's already, as well as how technical innovation is the driving force in reducing the impact of homosapiens carbon footprint. Programming deeply appeals to me as it is both highly technical and creative. Having trained as a classical guitarist in my youth I was quickly able find similarities between the two fields - reading/analysing words/notation, identifiying patterns and of course the need for daily practise. Creative thinking, absorbing knowledge and problem solving are all highly enjoyable for me and I like contributing both individually, but especially as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Although I am very much at the start of my journey as an SE, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. Please feel free to have a look at my projects and reach out via my contact details above.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)  
 <br>
@@ -121,6 +110,11 @@ During my time at leading music, tech company [The Orchard](https://www.theorcha
 - Mental Health First Aider (trained at Sony Music)
 
 ## HOBBIES AND INTERESTS
+- 🔭 I’m currently working on... Using a Raspberry Pi to automate my lights and blinds at home
+- 🌱 I’m currently learning... React, React Native, Cypress, Python and more (see below)
+- 👯 I’m looking to collaborate on... Predominantly open source projects within the realms of Tech For Good, Music and Home Automation
+- ⚡ Fun fact... I can make several animal noises, including quite a convincing Dolphin
+- ⚡ Fun fact 2... One of my favourite snacks is [doubles](https://en.wikipedia.org/wiki/Doubles_(food)), which I ate copious amounts of when learning about mocking 😎
 - 🌎 🌱 🚲 Trying to reduce my carbon footprint on a daily basis
 - 🪸🤿 Last year I became a qualified scuba diver, which was life changing!
 - ⛰️🥾 I love hiking, especially up mountains (even got engaged up one!) and have hiked Snowdon twice, Ben Nevis, Mount Ainos (Greece) and others in China, the Outer Hebdrides and Switzerland
@@ -133,5 +127,7 @@ During my time at leading music, tech company [The Orchard](https://www.theorcha
 - 🗞️ Blogs and newsletters I subscribe to and read on the reg; [Bennett Garner](https://bennettgarner.medium.com/), [TLDR](https://tldr.tech/), [ColorInTech](https://www.colorintech.org/newsletter), [ByteByteGo](https://blog.bytebytego.com/?utm_source=site)
 - 🎧 Podcasts I have been listening to; [CodeNewbie](https://open.spotify.com/show/2T2OwucPOy2uDG1CUsjIMB?si=00c74f03a92f42b7), [NerdOut@Spotify](https://open.spotify.com/show/5eXZwvvxt3K2dxha3BSaAe?si=4be0be155abf4d6a)
 - 🏫 Courses I am doing/planning on doing; [Crach Course Computer Science](https://thecrashcourse.com/topic/computerscience/), [CS50 Harvard Intro to CS](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0), [Codecademy - Python](https://www.codecademy.com/learn/learn-python)
-- 🎫 Events/Meetups I have/do attend; [Silicon Milkroundabout - Next Gen](https://www.siliconmilkroundabout.com/nextgen), [London Tech Network](https://www.meetup.com/london-tech-network/events/), 
+- 🎫 Events/Meetups I have/do attend; [Silicon Milkroundabout - Next Gen](https://www.siliconmilkroundabout.com/nextgen), [London Tech Network](https://www.meetup.com/london-tech-network/events/)
+
+
 
