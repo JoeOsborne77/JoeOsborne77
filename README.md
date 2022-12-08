@@ -1,7 +1,6 @@
 # JOE OSBORNE
- 
+## CONTACT
 ### :envelope: joeosborne77@gmail.com | :iphone:[07498470171](https://wa.me/4407498470171) | 📝 [PDF CV](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
-
 
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.linkedin.com/in/joe-osborne-998813116/)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://medium.com/@joeosborne77)
