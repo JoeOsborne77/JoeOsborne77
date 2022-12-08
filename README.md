@@ -131,10 +131,10 @@ _Senior Strategy and Marketing Manager_
 Further integration between music and tech, as well as tech for good and how technology is changing people's lives for the better is very exciting for me and I feel privileged to live at such a time. Specifically the advancements in the mental health, general medical and environmental industries. 
 
 ## REFERENCES
-Name: Shane Derozario
-Email: shane.derozario@sonymusic.com
-Title: MD, Dream Life Records
+Name: Shane Derozario <br>
+Email: shane.derozario@sonymusic.com <br>
+Title: MD, Dream Life Records <br>
 
-Name: James Moodie
-Email: moodie@theorchard.com
-Title: Senior Director, The Orchard
+Name: James Moodie <br>
+Email: moodie@theorchard.com <br>
+Title: Senior Director, The Orchard <br>
