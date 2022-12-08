@@ -38,12 +38,11 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 ### [CHITTER CHALLENGE](https://github.com/JoeOsborne77/chitter-challenge)
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/chitter.gif" width="550" height="325" />
 
-### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
-<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="300" height="175">
-
 ### [NEW CHALLENGE](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/newsFeed.gif" width="550" height="325" />
 
+### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
+<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="300" height="175">
 
 ## WIDER SKILLS
 Git/GitHub · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
