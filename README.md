@@ -54,15 +54,6 @@ One particular example of this is when ... In this situation I ... which led me 
 Strong Communication Skills
 One particular example of this is when ... In this situation I ... which led me to... resulting in...
 
-
-## VOLUNTEERING AND CHARITABLE WORK
- I am a firm believer in giving back and have been able to utilise my professional experience and compassionate nature to help others along the way. I am hoping to continue with this work and make a difference where I can in the tech industry 
- 
-- I was a mentor for the [Creative Mentor Network](https://www.creativementornetwork.org/), a charity which helps young people from low socio-economic backgrounds who are under-represented in the creativ industries. Over the course of a year I helped and encouraged my mentee advance in her career through weekly meetings over the course of a year. We mainly focused on expanding her network and increasing her soft skills. I also helped her with interview prep for a job which she secured.
-- The video streaming giant [Vevo](https://www.hq.vevo.com/) invited me to do a panel for [Raw Material](https://rawmusicmedia.co.uk/), a charity they had partnered with who are focused on helping young people from diverse backgrounds get into the creative industries 
-- Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
-- In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
-
 ## WORK EXPERIENCE
 
 **The Orchard, Sony Music** (May 2014 to August 2022)  
@@ -110,6 +101,14 @@ During my time at leading music, tech company [The Orchard](https://www.theorcha
 - Qualified Scuba Diver (PADI)
 - Grade 6 Classical Guitarist 
 - Mental Health First Aider (trained at Sony Music)
+
+## VOLUNTEERING AND CHARITABLE WORK
+ I am a firm believer in giving back and have been able to utilise my professional experience and compassionate nature to help others along the way. I am hoping to continue with this work and make a difference where I can in the tech industry 
+ 
+- I was a mentor for the [Creative Mentor Network](https://www.creativementornetwork.org/), a charity which helps young people from low socio-economic backgrounds who are under-represented in the creative industries. Over the course of a year I helped and encouraged my mentee advance in her career through weekly meetings over the course of a year. We mainly focused on expanding her network and increasing her soft skills. I also helped her with interview prep for a job which she secured.
+- The video streaming giant [Vevo](https://www.hq.vevo.com/) invited me to do a panel for [Raw Material](https://rawmusicmedia.co.uk/), a charity they had partnered with who are focused on helping young people from diverse backgrounds get into the creative industries 
+- Over the last 8 years I have volunteered for [Glassdoor (Homeless Shelter)](https://www.glassdoor.org.uk/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9mpqRVlydy2cRcGc11Azao1-tVxd_RTy4cvGH6uAcEoBS3orQ1LFR0aAoUVEALw_wcB) on a bi-weekly basis
+- In 2020, together with my colleagues [I helped to raise over £2k](https://www.justgiving.com/fundraising/roadtoyemencycle) (432% over our target) for the charity [Road To Freedom](https://www.instagram.com/roadtofreedom1/?hl=en), a charity focused on helping refugees
 
 ## HOBBIES AND INTERESTS
 - 🔭 I’m currently working on... Using a Raspberry Pi to automate my lights and blinds at home
