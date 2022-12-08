@@ -35,11 +35,14 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 | **[votewatch](https://github.com/tomallens/votewatch)** | Mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs, TablePlus, PostMan, EXPO |
 
 
+### [CHITTER CHALLENGE](https://github.com/JoeOsborne77/chitter-challenge)
+<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/chitter.gif" width="550" height="325" />
+
 ### [NOTES APP](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)
 <img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/notes-app/styling/NotesApp.png" width="300" height="175">
 
 ### [NEW CHALLENGE](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)
-<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/NewsChallenge/GIF-2022-10-30-23-44-23%202.gif" width="300" height="175" />
+<img src="https://github.com/JoeOsborne77/MakersComplete/blob/main/Week_7/NewsChallenge/GIF-2022-10-30-23-44-23%202.gif" width="550" height="325" />
 
 
 ## WIDER SKILLS
