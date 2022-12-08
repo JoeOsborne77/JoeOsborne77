@@ -32,11 +32,11 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 | **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | News feed app using the Guardian's Api with search functionality, allowing users to filter results. Images and links go direclty to the relevant Guardian page | Javascript, Jest, HTML, CSS, Guardian API
 | **[GrumbleBook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | Clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | React, Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus, PostMan
 | **[Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest)** | Simple bank program completed to test abilities on writing clean code and TDD. Program allows users to deposit and withdrawal money from a bank account. | Javascript, Jest
-| **[votewatch](https://github.com/tomallens/votewatch)** | Mobile App which allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs, TablePlus, PostMan, EXPO |
+| **[votewatch](https://github.com/tomallens/votewatch)** | Mobile App which notifies users when a new vote is passed and how their MP voted. Also allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs, TablePlus, PostMan, EXPO |
 
 
 ### [VOTEWATCH](https://github.com/tomallens/votewatch)
-<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/votewatch.gif" width="325" height="550" />
+<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/vw.gif" width="325" height="550" />
 
 ### [GRUMBLEBOOK](https://youtu.be/2zSq7HvZg3g)
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/grumbleBook.jpg" width="550" height="325" />
