@@ -22,30 +22,20 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 ## PROJECTS
 #### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
 
-| Name                         | Description             | Tech/tools             |
-| ---------------------------- | ----------------------- | ---------------------- |
-**[Takeaway Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_2/Weekend%20Challenges)** | Simple takeaway App which allows users to see a restaurants menu, place an order and get sent a text saying their order has been received | Ruby, Twilio, RSpec |
-**[Chitter Challenge](https://github.com/JoeOsborne77/chitter-challenge)** | Clone of Twitter where users can sign up, login, logout, see previous 'peeps' and post their own 'peeps' with images  | Ruby, SQL, RSpec, HTML, CSS, TablePlus, PostMan |
-**[MakersBnB Challenge](https://github.com/JoeOsborne77/makersbnb-ruby-seed)** | Clone of Airbnb where users can signup, login, signout, upload a place to stay with images, book a place to stay and more | Active Record, BCrypt, PostgreSQL, Ruby, RSpec, TablePlus, PostMan |
-| **[Bowling Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6/bowling)** | Bowling program with multiple classes to correctly score a 10 frame game of bowling | Javascript, Jest
-| **[Notes App](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app)** | Simple web app allowing users to post notes | Javascript, Jest, HTML, CSS 
-| **[News Challenge](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)** | News feed app using the Guardian's Api with search functionality, allowing users to filter results. Images and links go direclty to the relevant Guardian page | Javascript, Jest, HTML, CSS, Guardian API
-| **[GrumbleBook](https://github.com/PatriciaGN/acebook-team-owlpaca)** | Clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | React, Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus, PostMan
-| **[Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest)** | Simple bank program completed to test abilities on writing clean code and TDD. Program allows users to deposit and withdrawal money from a bank account. | Javascript, Jest
-| **[votewatch](https://github.com/tomallens/votewatch)** | Mobile App which notifies users when a new vote is passed and how their MP voted. Also allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs, TablePlus, PostMan, EXPO |
+| Name                         |  Links      |      Description        | Tech/tools             |
+| ---------------------------- | ----------- | ----------------------- | ---------------------- |
+**Takeaway Challenge** | [Code](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_2/Weekend%20Challenges) | Simple takeaway App which allows users to see a restaurants menu, place an order and get sent a text saying their order has been received | Ruby, Twilio, RSpec |
+**Chitter Challenge** | [Code](https://github.com/JoeOsborne77/chitter-challenge), [Screen Record](https://github.com/JoeOsborne77/projectGifs/blob/main/chitter.gif) | Clone of Twitter where users can sign up, login, logout, see previous 'peeps' and post their own 'peeps' with images  | Ruby, SQL, RSpec, HTML, CSS, TablePlus, PostMan |
+**MakersBnB Challenge** | [Code](https://github.com/JoeOsborne77/makersbnb-ruby-seed)|Clone of Airbnb where users can signup, login, signout, upload a place to stay with images, book a place to stay and more | Active Record, BCrypt, PostgreSQL, Ruby, RSpec, TablePlus, PostMan |
+| **Bowling Challenge** | [Code](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_6/bowling)|Bowling program with multiple classes to correctly score a 10 frame game of bowling | Javascript, Jest
+| **Notes App** | [Code](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/notes-app) |Simple web app allowing users to post notes | Javascript, Jest, HTML, CSS 
+| **News Challenge** | [Code](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge), [Screen Record](https://github.com/JoeOsborne77/projectGifs/blob/main/newsFeed.gif) | News feed app using the Guardian's Api with search functionality, allowing users to filter results. Images and links go direclty to the relevant Guardian page | Javascript, Jest, HTML, CSS, Guardian API
+| **GrumbleBook** | [Code](https://github.com/PatriciaGN/acebook-team-owlpaca), [presentation](https://youtu.be/2zSq7HvZg3g) |Clone of Facebook where users can signup, login, signout, comment on posts, approve or disapprove posts and upload gifs, pictures and videos to go alongside posts | React, Express, Nodemon, Handlebars, Mongoose, MongoDB, ESLint, Jest, Cypress, Firebase, Javascript, TablePlus, PostMan
+| **Bank Tech Test** | [Code](https://github.com/JoeOsborne77/bankTechTest) |Simple bank program completed to test abilities on writing clean code and TDD. Program allows users to deposit and withdrawal money from a bank account. | Javascript, Jest
+| **votewatch** | [Code](https://github.com/tomallens/votewatch), [iOS Screen Record](https://github.com/JoeOsborne77/projectGifs/blob/main/vww.gif) |Mobile App which notifies users when a new vote is passed and how their MP voted. Also allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs, TablePlus, PostMan, EXPO |
 
 
-### [VOTEWATCH](https://github.com/tomallens/votewatch)
-<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/vww.gif" width="325" height="550" />
 
-### [GRUMBLEBOOK](https://youtu.be/2zSq7HvZg3g)
-<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/gb.jpg" width="550" height="325" />
-
-### [CHITTER CHALLENGE](https://github.com/JoeOsborne77/chitter-challenge)
-<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/chitter.gif" width="550" height="325" />
-
-### [NEW CHALLENGE](https://github.com/JoeOsborne77/MakersComplete/tree/main/Week_7/NewsChallenge)
-<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/newsFeed.gif" width="550" height="325" />
 
 ## WIDER SKILLS
 Git/GitHub · TDD · Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills · Leadership · Managing & Training Junior Staff · Presenting & Public Speaking
