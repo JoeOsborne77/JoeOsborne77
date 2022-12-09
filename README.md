@@ -93,19 +93,22 @@ _Senior Strategy and Marketing Manager_
 ## EDUCATION
 
 #### Makers Academy (_August 2022 - December 2022_)
-Learning how to learn: Explored and adopted various learning techniques. In depth note taking using [Notion](https://www.notion.so/Software-Engineering-e0b19cc9ea644929807f811e241bb9d9), [GDrive](https://drive.google.com/drive/folders/1FsjbMQFjPEdXe4FmdkzqBRawRi0gKlgz?usp=share_link) setting [SMART Goals](https://github.com/JoeOsborne77/GoalsEvidenceReflections/), utilising the [Ready Position](https://sjmog.github.io/posts/491_learning_to_learn_1/) and [Pomodoro Technique](https://images.prismic.io/sketchplanations/62e61034-b66a-4ede-a5db-a5cbc39d55e7_SP+587+-+The+Pomodoro+technique.jpg?auto=format&ixlib=react-9.0.3&h=1887.557603686636&w=1600)
-Agile workflow: Embodied for every group project, something which came very naturally for me due to my previous experience
-SOLID: Got to grips with each principle and applied them consistenly for every project i.e. [Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest/tree/main/spec)
-CRUD: Routinely implented all four functions in a wide variety of projects
-TDD: Developed a ground up approach to programming using the red, green, refactor processes. Scored 'near perfect' on [coding review](https://github.com/JoeOsborne77/Reviews)
-Wellbeing and Productivity: Managed workload and wellbeing efficiently. Set clear boundaries in order to enhance productivity. Attended meditation sessions everyday, a practise I have taken into my daily routine
-Learning New Languages: Aplied a coherent process to learn a new language within one week
-API's: Used a variety of GET, PATCH and POST requests to multiple API's for a variety of projects including the House of Commons and Guardian's API's
-Databases: Used MongoDB and PostgreSQL to CRUD databases and tables, integrated into fully functioning programs to store data
-Pairing: Formed enjoyable working rhythms with team mates by pairing everyday  
-Debugging: Learnt how to tighten the loop and get visibility on bugs quickly
-Teamwork: Contributed to multiple features for projects as well as daily standups and retros
-Presenting: Presented projects to the whole group, coaches, prospective and exisiting students 
+**Learning how to learn:** Explored and adopted various learning techniques. Some of these include;
+- In depth note taking using [Notion](https://www.notion.so/Software-Engineering-e0b19cc9ea644929807f811e241bb9d9), [GDrive](https://drive.google.com/drive/folders/1FsjbMQFjPEdXe4FmdkzqBRawRi0gKlgz?usp=share_link)
+- Setting [SMART Goals](https://github.com/JoeOsborne77/GoalsEvidenceReflections/)
+- Utilising the [Ready Position](https://sjmog.github.io/posts/491_learning_to_learn_1/) and [Pomodoro Technique](https://images.prismic.io/sketchplanations/62e61034-b66a-4ede-a5db-a5cbc39d55e7_SP+587+-+The+Pomodoro+technique.jpg?auto=format&ixlib=react-9.0.3&h=1887.557603686636&w=1600)
+**Agile workflow:** Embodied for every group project, something which came very naturally for me due to my previous experience
+**SOLID:** Got to grips with each principle and applied them consistenly for every project i.e. [Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest/tree/main/spec)
+**CRUD:** Routinely implented all four functions in a wide variety of projects
+**TDD:** Developed a ground up approach to programming using the red, green, refactor processes. Scored 'near perfect' on [coding review](https://github.com/JoeOsborne77/Reviews)
+**Wellbeing and Productivity:** Managed workload and wellbeing efficiently. Set clear boundaries in order to enhance productivity. Attended meditation sessions everyday, a practise I have taken into my daily routine
+**Learning New Languages:** Aplied a coherent process to learn a new language within one week
+**API's:** Used a variety of GET, PATCH and POST requests to multiple API's for a variety of projects including the House of Commons and Guardian's API's
+**Databases:** Used MongoDB and PostgreSQL to CRUD databases and tables, integrated into fully functioning programs to store data
+**Pairing:** Formed enjoyable working rhythms with team mates by pairing everyday  
+**Debugging:** Learnt how to tighten the loop and get visibility on bugs quickly
+**Teamwork:** Contributed to multiple features for projects as well as daily standups and retros
+**Presenting:** Presented projects to the whole group, coaches, prospective and exisiting students 
 
 #### University of Hertfordshire (_September 2011 to May 2014_)
 - Music Business - 2:1 - Modules including; Marketing & Strategy, Data Analysis, Music Technology, Law, Business Management and more
