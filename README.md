@@ -36,7 +36,7 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 
 
 ## WIDER SKILLS
-Organisation Skills · Git/GitHub · TDD · Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Emotional Intelligence & Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Attention to detail · Strong Communication Skills · Leadership · Managing & Training Junior Staff · Presenting & Public Speaking · Problem-solving · Discipline · Time management · Resilience
+Organisation Skills · Trained Mental Health First Aider · Git/GitHub · TDD · Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Emotional Intelligence & Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Attention to detail · Strong Communication Skills · Leadership · Managing & Training Junior Staff · Presenting & Public Speaking · Problem-solving · Discipline · Time management · Resilience
 
 #### Discernment of Client Needs
 During my time at [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all desired my attendance so I ended up going to all three across one evening. I was able to keep all clients happy and ensure they all felt equal. This skills was also highly valuable during my time at Makers, where I was able to quickly identify user needs for different programs and create well formed user stories, which helped steer the direction of various projects. It comes natural to me to think about how the user will use the product and try to put myself in their shoes. 
@@ -97,7 +97,7 @@ _Senior Client/Label Manager_
 - **Databases:** Used MongoDB and PostgreSQL to CRUD databases and tables, integrated into fully functioning programs to store data<br>
 - **Pairing:** Formed enjoyable working rhythms with team mates by pairing everyday<br>
 - **Debugging:** Learnt how to tighten the loop and get visibility on bugs quickly<br>
-- **Teamwork:** Contributed to multiple features for projects as well as daily standups and retros<br>
+- **Teamwork:** Contributed to multiple features for projects as well as daily standups and retros. Embodied an empathetic stance to ensure all team members felt able to express themselves and take breaks when needed <br>
 - **Presenting:** Presented projects to the whole group, coaches, prospective and exisiting students 
 
 #### University of Hertfordshire (_September 2011 to May 2014_)
