@@ -98,10 +98,10 @@ Agile workflow: Embodied for every group project, something which came very natu
 SOLID: Got to grips with each principle and applied them consistenly for every project i.e. [Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest/tree/main/spec)
 CRUD: Routinely implented all four functions in a wide variety of projects
 TDD: Developed a ground up approach to programming using the red, green, refactor processes. Scored 'near perfect' on [coding review](https://github.com/JoeOsborne77/Reviews)
-Wellbeing and Productivity: 
-Learning New Languages: 
-Using API's
-Using Databases
+Wellbeing and Productivity: Managed workload and wellbeing efficiently. Set clear boundaries in order to enhance productivity. Attended meditation sessions everyday, a practise I have taken into my daily routine
+Learning New Languages: Able to easily transfer theory 
+API's:
+Databases: 
 Pairing 
 Debugging
 Teamwork
