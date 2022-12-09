@@ -35,31 +35,28 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 | **votewatch** | [Code](https://github.com/tomallens/votewatch), [iOS Screen Record](https://github.com/JoeOsborne77/projectGifs/blob/main/vww.gif) |Mobile App which notifies users when a new vote is passed and how their MP voted. Also allows users signup, login, signout, see their MP's voting record, direclty email their MP (with email address), swipe through to see older voting records and place their own approve or disapprove ratings for each vote their MP makes. Users can also instantly Google vote titles making it easier to garner information and context of each vote | PostgreSQL, Express, React Native, Node, Javascript, House Of Commons APIs, TablePlus, PostMan, EXPO |
 
 
-
-
 ## WIDER SKILLS
-Git/GitHub · TDD · Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills · Leadership · Managing & Training Junior Staff · Presenting & Public Speaking
+Organisation Skills · Git/GitHub · TDD · Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Emotional Intelligence & Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Attention to detail · Strong Communication Skills · Leadership · Managing & Training Junior Staff · Presenting & Public Speaking · Problem-solving · Discipline · Time management · Resilience
 
 #### Discernment of Client Needs
-During my time at [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all desired my attendance so I ended up going to all three across one evening. I was able to keep all clients happy and ensure they all felt equal.
+During my time at [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all desired my attendance so I ended up going to all three across one evening. I was able to keep all clients happy and ensure they all felt equal. This skills was also highly valuable during my time at Makers, where I was able to quickly identify user needs for different programs and create well formed user stories, which helped steer the direction of various projects. It comes natural to me to think about how the user will use the product and try to put myself in their shoes. 
 
 #### Data Analysis 
-When working on a particular release I noticed a very large spike in listenership in a particular city but we couldn't identify why. By digging into the data I identified the cause of the jump (there was a TikTok trend in the city using the track) and was able to capitalise on this by arranging a live marketing event including a performance from the artist very quickly. After the event we also saw a conversion from passive fans of one track into active fans who were diving into the artists catalogue.  
+When working on a particular release I noticed a very large spike in listenership in a particular city but we couldn't identify why. By digging into the data I identified the cause of the jump (there was a TikTok trend in the city using the track) and was able to capitalise on this by arranging a live marketing event including a performance from the artist very quickly. After the event we also saw a conversion from passive fans of one track into active fans who were diving into the artists catalogue. My highly methodical approach to analysing data made adopting a TDD approach to programming a smooth process which I enjoy greatly. Likewise these skills enabled me to get visibility and resolve bugs on both mine and others codebases. 
 
 #### Strong Communication Skills
-As part of my previous role I regularly led large planning meetings of both internal teams and external companies and freelancers I had hired for projects. The aim of these meetings was to provide an open space for people to put forward their creative strategies, encourage collaboration and devise a solid route to market by bring the different pieces together. Through my excellent communication skills I was able to foster exciting, productive and positive environments for people to thrive in. These planning meetings resulted in several silver, gold and platinum releases and general increase in audience size for the artists I was working with. 
+As part of my previous role I regularly led large planning meetings of both internal teams and external companies and freelancers I had hired for projects. The aim of these meetings was to provide an open space for people to put forward their creative strategies, encourage collaboration and devise a solid route to market by bring the different pieces together. Through my excellent communication skills I was able to foster exciting, productive and positive environments for people to thrive in. These planning meetings resulted in several silver, gold and platinum releases and a general increase in audience size for the artists I was working with. During my time at Makers I was able to utilise these communication skills to slot into a variety of teams and be an affective and uplifting team member. On several occasions I was Team Lead for the day and led retros which I found highly enjoyable. 
 
 #### Managing & Training Junior Staff
 As a senior member of staff it was my responsibility to manage and train several junior members of the team, such as when our department hired a coordinator. Through regular checkins I was able to empower them by showing genuine interest in their success and wellbeing. I encouraged them to present solutions to problems, rather than solving problems for them. By being an active listener I was able to discuss their long-term career aspirations and help them understand potential career paths. In this particular example this junior member of staff ended up being promoted to a more senior role in the team that we were in desperate need of and rapidly became one of our highest performing team members.
 
 ## WORK EXPERIENCE
 
-**The Orchard, Sony Music** (May 2014 to August 2022)  
+**The Orchard, Sony Music** (May 2018 to August 2022)  
 _Senior Strategy and Marketing Manager_
 
 - Through my marketing campaigns I helped secure certified platinum releases by; Ivor Novello nominated Russ Millions, Skepta, Jorja Smith and JP Saxe
 - One of my last campaigns saw an increase in social media subscribers by 200%
-- Handled large sets of data & multiple metadata ingestions
 - Undertook in depth data analysis on a day to day basis
 - Worked closely with CRM teams to strategise campaigns & content rollout 
 - Ran marketing campaigns and managed six figure budgets 
@@ -69,15 +66,22 @@ _Senior Strategy and Marketing Manager_
 - Worked closely with streaming partners to collaborate on marketing activations
 - Worked with brands, sync and other wider teams to further promote our client's releases 
 - Collaborated closely with artists and management to help them achieve their creative goals
-- Undertook in depth data analysis of projects in order to identify trends and encourage growth
 - Stayed on top of new forms of media and educate artists to ensure they are exploiting them to the best of their ability 
 - Expanded campaigns internationally and hired relevant international promo teams
 - Was a dependable point of contact for all clients 
 - CRM Strategy - Organised website launches, wrote newsletters and grew subscriber lists
 - Created, organised and executed all forms of marketing activations
 - Introduced new processes which improved efficency and team morale
-- Handled large forms of metadata and organised product ingestions 
 - Liased with R&D team to highlight and solve bugs 
+
+**The Orchard, Sony Music** (May 2018 to August 2022)  
+_Senior Client/Label Manager_
+- Handled large sets of data & multiple metadata ingestions
+- Managed several high priority clients including Red Bull Records, September Records, Thirty Tigers, Arista Records, Nettwerk and more
+- Undertook in depth data analysis of projects in order to identify trends and encourage growth
+- Organised and project managed the manufacturing of multiple physical formats (Merchandise, CD's, Vinyl etc.)
+- Controlled inventory of stock and was coordinated ordering, stoage, tracking etc
+- Effectively led all internal and external teams through from product ingestion to market 
 
 ## EDUCATION
 
