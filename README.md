@@ -141,7 +141,7 @@ _Senior Client/Label Manager_
 - 🎫 Events/Meetups I have/do attend; [Silicon Milkroundabout - Next Gen](https://www.siliconmilkroundabout.com/nextgen), [London Tech Network](https://www.meetup.com/london-tech-network/events/)
 
 ## CLOSING
-Machine learning and further integration between music and tech, as well as tech for good and how technology is changing people's lives for the better is very exciting for me. Specifically the advancements in the mental health, general medical and environmental industries make me feel privileged to live at such a time and I am looking forward to advancing in my journey.
+Machine learning and further integration between music and tech, as well as tech for good and how technology is changing people's lives for the better is very exciting for me. Specifically the advancements in the mental health, general medical and environmental industries make me feel privileged to live at such a time and I am looking forward to contributing to these fields.
 
 ## REFERENCES
 Name: Shane Derozario <br>
