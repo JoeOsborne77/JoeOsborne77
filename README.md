@@ -49,7 +49,7 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/newsFeed.gif" width="550" height="325" />
 
 ## WIDER SKILLS
-Git/GitHub · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills · Leadership · Managing & Training Junior Staff
+Git/GitHub · TDD · Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills · Leadership · Managing & Training Junior Staff · Presenting & Public Speaking
 
 #### Discernment of Client Needs
 During my time at [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all desired my attendance so I ended up going to all three across one evening. I was able to keep all clients happy and ensure they all felt equal.
@@ -93,13 +93,36 @@ _Senior Strategy and Marketing Manager_
 ## EDUCATION
 
 #### Makers Academy (_August 2022 - December 2022_)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Learning how to learn: Explored and adopted various learning techniques. In depth note taking using [Notion](https://www.notion.so/Software-Engineering-e0b19cc9ea644929807f811e241bb9d9), [GDrive](https://drive.google.com/drive/folders/1FsjbMQFjPEdXe4FmdkzqBRawRi0gKlgz?usp=share_link) setting [SMART Goals](https://github.com/JoeOsborne77/GoalsEvidenceReflections/), utilising the [Ready Position](https://sjmog.github.io/posts/491_learning_to_learn_1/) and [Pomodoro Technique](https://images.prismic.io/sketchplanations/62e61034-b66a-4ede-a5db-a5cbc39d55e7_SP+587+-+The+Pomodoro+technique.jpg?auto=format&ixlib=react-9.0.3&h=1887.557603686636&w=1600)
+Agile workflow: Embodied for every group project, something which came very naturally for me due to my previous experience
+SOLID: Got to grips with each principle and applied them consistenly for every project i.e. [Bank Tech Test](https://github.com/JoeOsborne77/bankTechTest/tree/main/spec)
+CRUD: Routinely implented all four functions in a wide variety of projects
+TDD: Developed a ground up approach to programming using the red, green, refactor processes. Scored 'near perfect' on [coding review](https://github.com/JoeOsborne77/Reviews)
+Wellbeing and Productivity: 
+Learning New Languages: 
+Using API's
+Using Databases
+Pairing 
+Debugging
+Teamwork
+Presenting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pair programming: working collaboratively with people with different learning styles Patience: with myself whilst learning new concepts and when teaching others Setting realistic goals: not getting overwhelmed and breaking down problems Test Driven Development: trusting the TDD process to guide me towards a better and well tested result Meaningful code review: thoroughly reading and understanding other people's code before committing it to the main branch Group project working: finding a balance between getting work done and ensuring that everybody's ideas were included Mentoring: I was inspired by my own great mentor to take on two mentors who are currently studying at Makers. This has been very rewarding so far Participated in consistent pair programming and team engineering projects whilst following an Agile workflow. This enabled a great design sprint and flexibility throughout the project for change. Followed Object-Orientated Programming with the languages Ruby and JavaScript, and frameworks Express, Phaser and Rails. I was able to confidently use dependency injection, inheritance, abstraction etc to write clear code in line with single responsibility principle and DRY. Strongly used Test Driven Development to a high standard throughout the bootcamp with RSpec, Jest and Cypress. This is highly apparent in my Makers Code Reviews. Robustly debugged code as a key way of problem solving errors, such as binding.pry with Ruby and console.log with JavaScript. Deployed web applications using a light cloud service such as Heroku.
 
 #### University of Hertfordshire (_September 2011 to May 2014_)
 - Music Business - 2:1 - Modules including; Marketing & Strategy, Data Analysis, Music Technology, Law, Business Management and more
