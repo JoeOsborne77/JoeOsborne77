@@ -99,33 +99,19 @@ SOLID: Got to grips with each principle and applied them consistenly for every p
 CRUD: Routinely implented all four functions in a wide variety of projects
 TDD: Developed a ground up approach to programming using the red, green, refactor processes. Scored 'near perfect' on [coding review](https://github.com/JoeOsborne77/Reviews)
 Wellbeing and Productivity: Managed workload and wellbeing efficiently. Set clear boundaries in order to enhance productivity. Attended meditation sessions everyday, a practise I have taken into my daily routine
-Learning New Languages: Able to easily transfer theory 
-API's:
-Databases: 
-Pairing 
-Debugging
-Teamwork
-Presenting
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pair programming: working collaboratively with people with different learning styles Patience: with myself whilst learning new concepts and when teaching others Setting realistic goals: not getting overwhelmed and breaking down problems Test Driven Development: trusting the TDD process to guide me towards a better and well tested result Meaningful code review: thoroughly reading and understanding other people's code before committing it to the main branch Group project working: finding a balance between getting work done and ensuring that everybody's ideas were included Mentoring: I was inspired by my own great mentor to take on two mentors who are currently studying at Makers. This has been very rewarding so far Participated in consistent pair programming and team engineering projects whilst following an Agile workflow. This enabled a great design sprint and flexibility throughout the project for change. Followed Object-Orientated Programming with the languages Ruby and JavaScript, and frameworks Express, Phaser and Rails. I was able to confidently use dependency injection, inheritance, abstraction etc to write clear code in line with single responsibility principle and DRY. Strongly used Test Driven Development to a high standard throughout the bootcamp with RSpec, Jest and Cypress. This is highly apparent in my Makers Code Reviews. Robustly debugged code as a key way of problem solving errors, such as binding.pry with Ruby and console.log with JavaScript. Deployed web applications using a light cloud service such as Heroku.
+Learning New Languages: Aplied a coherent process to learn a new language within one week
+API's: Used a variety of GET, PATCH and POST requests to multiple API's for a variety of projects including the House of Commons and Guardian's API's
+Databases: Used MongoDB and PostgreSQL to CRUD databases and tables, integrated into fully functioning programs to store data
+Pairing: Formed enjoyable working rhythms with team mates by pairing everyday  
+Debugging: Learnt how to tighten the loop and get visibility on bugs quickly
+Teamwork: Contributed to multiple features for projects as well as daily standups and retros
+Presenting: Presented projects to the whole group, coaches, prospective and exisiting students 
 
 #### University of Hertfordshire (_September 2011 to May 2014_)
 - Music Business - 2:1 - Modules including; Marketing & Strategy, Data Analysis, Music Technology, Law, Business Management and more
+- Organised multiple events through excellent planning and time management skills
+- Interned throughout my degree to ensure I had adequate experience upon graduating
+- Voted 'Most Improvement' and 'Most Likely To Have a Number One Single' 🎵
 
 #### Other qualifications
 - Qualified Scuba Diver (PADI)
@@ -161,8 +147,8 @@ Pair programming: working collaboratively with people with different learning st
 - 🏫 Courses I am doing/planning on doing; [Crach Course Computer Science](https://thecrashcourse.com/topic/computerscience/), [CS50 Harvard Intro to CS](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0), [Codecademy - Python](https://www.codecademy.com/learn/learn-python)
 - 🎫 Events/Meetups I have/do attend; [Silicon Milkroundabout - Next Gen](https://www.siliconmilkroundabout.com/nextgen), [London Tech Network](https://www.meetup.com/london-tech-network/events/)
 
-## CLOSING TBC
-Further integration between music and tech, as well as tech for good and how technology is changing people's lives for the better is very exciting for me and I feel privileged to live at such a time. Specifically the advancements in the mental health, general medical and environmental industries. 
+## CLOSING
+Machine learning and further integration between music and tech, as well as tech for good and how technology is changing people's lives for the better is very exciting for me. Specifically the advancements in the mental health, general medical and environmental industries make me feel privileged to live at such a time and I am looking forward to advancing in my journey.
 
 ## REFERENCES
 Name: Shane Derozario <br>
