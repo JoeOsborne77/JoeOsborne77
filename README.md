@@ -40,7 +40,7 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/vww.gif" width="325" height="550" />
 
 ### [GRUMBLEBOOK](https://youtu.be/2zSq7HvZg3g)
-<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/grumbleBook.jpg" width="550" height="325" />
+<img src="https://github.com/JoeOsborne77/projectGifs/blob/main/gb.jpg" width="550" height="325" />
 
 ### [CHITTER CHALLENGE](https://github.com/JoeOsborne77/chitter-challenge)
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/chitter.gif" width="550" height="325" />
