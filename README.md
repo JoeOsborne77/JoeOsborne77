@@ -49,7 +49,7 @@ Programming is deeply satisfying for me as it is both highly technical and creat
 <img src="https://github.com/JoeOsborne77/projectGifs/blob/main/newsFeed.gif" width="550" height="325" />
 
 ## WIDER SKILLS
-Git/GitHub · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills
+Git/GitHub · TDD / BDD ·Data anyalysis · Discerment of client needs · Large Scale Metadata Management · Empathy · CRM Strategy · Photoshop · Premier Pro · Google Docs Editors · Creative Strategy · Strong Communication Skills · Leadership · Managing & Training Junior Staff
 
 #### Discernment of Client Needs
 During my time at [The Orchard](https://www.theorchard.com/) I was a top performer, beginning as a Senior Client Manager for 4 years and ending as a Senior Marketing Manager for the final 4 years. It was not uncommon for me to go above and beyond to understand and meet my clients needs. In one instance I had three different clients all with different important events on in the evening. They all desired my attendance so I ended up going to all three across one evening. I was able to keep all clients happy and ensure they all felt equal.
@@ -58,7 +58,10 @@ During my time at [The Orchard](https://www.theorchard.com/) I was a top perform
 When working on a particular release I noticed a very large spike in listenership in a particular city but we couldn't identify why. By digging into the data I identified the cause of the jump (there was a TikTok trend in the city using the track) and was able to capitalise on this by arranging a live marketing event including a performance from the artist very quickly. After the event we also saw a conversion from passive fans of one track into active fans who were diving into the artists catalogue.  
 
 #### Strong Communication Skills
-One particular example of this is when ... In this situation I ... which led me to... resulting in...
+As part of my previous role I regularly led large planning meetings of both internal teams and external companies and freelancers I had hired for projects. The aim of these meetings was to provide an open space for people to put forward their creative strategies, encourage collaboration and devise a solid route to market by bring the different pieces together. Through my excellent communication skills I was able to foster exciting, productive and positive environments for people to thrive in. These planning meetings resulted in several silver, gold and platinum releases and general increase in audience size for the artists I was working with. 
+
+#### Managing & Training Junior Staff
+As a senior member of staff it was my responsibility to manage and train several junior members of the team, such as when our department hired a coordinator. Through regular checkins I was able to empower them by showing genuine interest in their success and wellbeing. I encouraged them to present solutions to problems, rather than solving problems for them. By being an active listener I was able to discuss their long-term career aspirations and help them understand potential career paths. In this particular example this junior member of staff ended up being promoted to a more senior role in the team that we were in desperate need of and rapidly became one of our highest performing team members.
 
 ## WORK EXPERIENCE
 
