@@ -92,7 +92,7 @@ _Senior Client/Label Manager_
 - **CRUD:** Routinely implented all four functions in a wide variety of projects<br>
 - **TDD:** Developed a ground up approach to programming using the red, green, refactor processes. Scored 'near perfect' on [coding review](https://github.com/JoeOsborne77/Reviews)<br>
 - **Wellbeing and Productivity:** Managed workload and wellbeing efficiently. Set clear boundaries in order to enhance productivity. Attended meditation sessions everyday, a practise I have taken into my daily routine<br>
-- **Learning New Languages:** Aplied a coherent process to learn a new language within one week<br>
+- **Learning New Languages:** Rapidly applied a coherent process to learn a new language within one week<br>
 - **API's:** Used a variety of GET, PATCH and POST requests to multiple API's for a variety of projects including the House of Commons and Guardian's API's<br>
 - **Databases:** Used MongoDB and PostgreSQL to CRUD databases and tables, integrated into fully functioning programs to store data<br>
 - **Pairing:** Formed enjoyable working rhythms with team mates by pairing everyday<br>
