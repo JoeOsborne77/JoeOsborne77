@@ -137,7 +137,7 @@ _Senior Client/Label Manager_
 - 🧮 Programming books I am currently reading/have read recently; Grokking Algorithms, Think Like a Programmer, The Pragmatic Programmer, Big Book of Small Python Programming, Learn to Program
 - 🗞️ Blogs and newsletters I subscribe to and read on the reg; [Bennett Garner](https://bennettgarner.medium.com/), [TLDR](https://tldr.tech/), [ColorInTech](https://www.colorintech.org/newsletter), [ByteByteGo](https://blog.bytebytego.com/?utm_source=site), [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
 - 🎧 Podcasts I have been listening to; [CodeNewbie](https://open.spotify.com/show/2T2OwucPOy2uDG1CUsjIMB?si=00c74f03a92f42b7), [NerdOut@Spotify](https://open.spotify.com/show/5eXZwvvxt3K2dxha3BSaAe?si=4be0be155abf4d6a)
-- 🏫 Courses I am doing/planning on doing; [Crach Course Computer Science](https://thecrashcourse.com/topic/computerscience/), [CS50 Harvard Intro to CS](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0), [Codecademy - Python](https://www.codecademy.com/learn/learn-python)
+- 🏫 Courses I am doing/planning on doing; [Crash Course Computer Science](https://thecrashcourse.com/topic/computerscience/), [CS50 Harvard Intro to CS](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0), [Codecademy - Python](https://www.codecademy.com/learn/learn-python)
 - 🎫 Events/Meetups I have/do attend; [Silicon Milkroundabout - Next Gen](https://www.siliconmilkroundabout.com/nextgen), [London Tech Network](https://www.meetup.com/london-tech-network/events/)
 
 ## CLOSING
