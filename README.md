@@ -71,8 +71,8 @@ _Senior Strategy and Marketing Manager_
 - Was a dependable point of contact for all clients 
 - CRM Strategy - Organised website launches, wrote newsletters and grew subscriber lists
 - Created, organised and executed all forms of marketing activations
-- Introduced new processes which improved efficency and team morale
-- Liased with R&D team to highlight and solve bugs 
+- Introduced new processes which improved efficiency and team morale
+- Liaised with R&D team to highlight and solve bugs 
 
 **The Orchard, Sony Music** (May 2018 to August 2022)  
 _Senior Client/Label Manager_
