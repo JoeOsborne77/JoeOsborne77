@@ -144,10 +144,4 @@ _Senior Client/Label Manager_
 Machine learning and further integration between music and tech, as well as tech for good and how technology is changing people's lives for the better is very exciting for me. Specifically the advancements in the mental health, general medical and environmental industries make me feel privileged to live at such a time and I am looking forward to contributing to these fields.
 
 ## REFERENCES
-Name: Shane Derozario <br>
-Email: shane.derozario@sonymusic.com <br>
-Title: MD, Dream Life Records <br>
-
-Name: James Moodie <br>
-Email: moodie@theorchard.com <br>
-Title: Senior Director, The Orchard <br>
+Available upon request
