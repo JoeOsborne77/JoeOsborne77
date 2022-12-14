@@ -1,5 +1,5 @@
 # JOE OSBORNE
-#### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#wider-skills) | [**EDUCATION**](#education) | [**EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS**](https://github.com/JoeOsborne77/Reviews) | [**VOLUNTEERING**](#VOLUNTEERING-AND-CHARITABLE-WORK) | [PDF CV](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
+#### [**CONTACT**](#contact) | [**ABOUT**](#about) | [**PROJECTS**](#projects) | [**SKILLS**](#wider-skills) | [**EDUCATION**](#education) | [**EXPERIENCE**](#work-experience) | [**HOBBIES**](#hobbies-and-interests) | [**BLOG**](https://linktr.ee/joeosborne77) | [**CODE REVIEWS/VIDEOS**](https://github.com/JoeOsborne77/Reviews) | [**VOLUNTEERING**](#VOLUNTEERING-AND-CHARITABLE-WORK) | [PDF CV](https://github.com/JoeOsborne77/pdfCV/blob/main/JOE%20OSBORNE.pdf)
 
 ## CONTACT
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-light-mode-only" align=left width=30 height=30></img>](mailto:joeosborne77@gmail.com)
