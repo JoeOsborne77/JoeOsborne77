@@ -9,7 +9,7 @@
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecademy.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codecademy.com/profiles/joeOsborne4015426741)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codewars.com/users/Tardigrade77)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://stackoverflow.com/users/19813094/joe-osborne)
-<br>
+<br><br>
 
 ## ABOUT
 👋 I'm Joe (he/him), a junior level Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at leading tech and music company [The Orchard](theorchard.com), Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course @[makersacademy](https://makers.tech/). During my career I worked closely with the tools our R&D teams created (mostly data analysis and product ingestion tools), which I could see were becoming more important to my job on a daily basis. Through speaking with some of our SE’s, I became more and more intrigued by what was happening under the hood of these tools and felt ready for a new challenge. 
