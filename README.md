@@ -9,16 +9,14 @@
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecademy.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codecademy.com/profiles/joeOsborne4015426741)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://www.codewars.com/users/Tardigrade77)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg#gh-light-mode-only" align=left width=30 height=30></img>](https://stackoverflow.com/users/19813094/joe-osborne)
-<br><br>
+<br>
 
 ## ABOUT
 👋 I'm Joe (he/him), a junior level Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at leading tech and music company [The Orchard](theorchard.com), Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course @[makersacademy](https://makers.tech/). During my career I worked closely with the tools our R&D teams created (mostly data analysis and product ingestion tools), which I could see were becoming more important to my job on a daily basis. Through speaking with some of our SE’s, I became more and more intrigued by what was happening under the hood of these tools and felt ready for a new challenge. 
 
 Programming is deeply satisfying for me as it is both highly technical and creative. Having trained as a classical guitarist in my youth I have been able to find similarities between the two fields - analysing words/notation, identifying patterns and of course the need for daily practise. Creative thinking, absorbing knowledge and problem solving are all highly enjoyable for me and I like contributing individually, but especially as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Although I am very much at the start of my journey as an SE, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)  
-<br>
-
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)   -->
 ## PROJECTS
 #### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
 
