@@ -12,9 +12,19 @@
 <br>
 
 ## ABOUT
-👋 I'm Joe (he/him), a junior level Full Stack Engineer based in London. After 8 years of working in marketing and client relations at a senior level at leading tech and music company [The Orchard](theorchard.com), Sony Music, I decided on a change in trajectory and have just completed the 12 week Software Engineering course @[makersacademy](https://makers.tech/). During my career I worked closely with the tools our R&D teams created (mostly data analysis and product ingestion tools), which I could see were becoming more important to my job on a daily basis. Through speaking with some of our SE’s, I became more and more intrigued by what was happening under the hood of these tools and felt ready for a new challenge. 
+Full Stack Engineer based in London with a decades worth of music industry experience. Deeply passionate about harnessing technology to bring more transparency and equitability to artists, managers and labels. MEAN stack.
 
-Programming is deeply satisfying for me as it is both highly technical and creative. Having trained as a classical guitarist in my youth I have been able to find similarities between the two fields - analysing words/notation, identifying patterns and of course the need for daily practise. Creative thinking, absorbing knowledge and problem solving are all highly enjoyable for me and I like contributing individually, but especially as part of a team. My constant curiosity and desire to learn, coupled with my passion for people and tech, I believe make me a valuable asset. Although I am very much at the start of my journey as an SE, I have laid some strong foundations and I am excited to find a company where I can utilise and build on my existing skill set. 
+Junior Web Developer @ Curve Royalty Systems 
+Thriving in an Agile environment where I balance both development and support duties. A typical day involves:
+
+- Proactively identifying and resolving bugs
+- Re-architecting legacy code
+- Creating and implementing new features 
+- Collaborating closely with our QA, Product, and Client Management teams to align development goals with client needs
+
+A recent highlight was the successful integration of Spotify's API into our system. Allowing users to seamlessly import their catalogues in bulk.
+
+Skills: CircleCI · AngularJS · Cascading Style Sheets (CSS) · Express.js · Node.js · MongoDB · HTML · JavaScript
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)   -->
 ## PROJECTS
