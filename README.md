@@ -24,8 +24,6 @@ Thriving in an Agile environment where I balance both development and support du
 
 A recent highlight was the successful integration of Spotify's API into our system. Allowing users to seamlessly import their catalogues in bulk.
 
-MEAN Stack.
-
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)   -->
 ## PROJECTS
 #### ⭐ [MAKERS ACADEMY: GOALS, EVIDENCE AND REFLECTIONS](https://github.com/JoeOsborne77/GoalsEvidenceReflections)
