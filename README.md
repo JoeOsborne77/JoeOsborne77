@@ -24,7 +24,7 @@ Thriving in an Agile environment where I balance both development and support du
 
 A recent highlight was the successful integration of Spotify's API into our system. Allowing users to seamlessly import their catalogues in bulk.
 
-Skills: AngularJS · Express.js · Node.js · MongoDB · HTML · JavaScript · CSS · CircleCI
+MEAN Stack.
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)   -->
 ## PROJECTS
