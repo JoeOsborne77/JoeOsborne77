@@ -14,7 +14,7 @@
 ## ABOUT
 Full Stack Engineer based in London with a decades worth of music industry experience. Deeply passionate about harnessing technology to bring more transparency and equitability to artists, managers and labels. MEAN stack.
 
-Junior Web Developer @ Curve Royalty Systems 
+Junior Web Developer @ [Curve Royalty Systems ]([url](https://www.curveroyaltysystems.com/))
 Thriving in an Agile environment where I balance both development and support duties. A typical day involves:
 
 - Proactively identifying and resolving bugs
@@ -24,7 +24,7 @@ Thriving in an Agile environment where I balance both development and support du
 
 A recent highlight was the successful integration of Spotify's API into our system. Allowing users to seamlessly import their catalogues in bulk.
 
-Skills: CircleCI · AngularJS · Cascading Style Sheets (CSS) · Express.js · Node.js · MongoDB · HTML · JavaScript
+Skills: AngularJS · Express.js · Node.js · MongoDB · HTML · JavaScript · CSS · CircleCI
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)   -->
 ## PROJECTS
