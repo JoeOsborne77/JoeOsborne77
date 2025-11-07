@@ -17,7 +17,7 @@ Software Developer with experience across the full stack and a growing specialis
 With a decade in the music industry before moving into tech, I bring strong communication, creative problem-solving, and collaboration skills to every project. I’m passionate about crafting intuitive digital experiences that balance technical excellence with thoughtful design.
 
 Mid Level Web Developer @ [Curve Royalty Systems ]([url](https://www.curveroyaltysystems.com/))
-Thriving in an Agile environment where I balance both development and support duties. A typical day involves:
+Thriving in an Agile environment. A typical day involves:
 
 - Proactively identifying and resolving bugs
 - Re-architecting legacy code
