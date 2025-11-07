@@ -12,17 +12,21 @@
 <br>
 
 ## ABOUT
-Full Stack Engineer based in London with a decades worth of music industry experience. Deeply passionate about harnessing technology to bring more transparency and equitability to artists, managers and labels. MEAN stack.
+Software Developer with experience across the full stack and a growing specialisation in front-end development. Skilled in React, TypeScript, and Node.js, I focus on building clean, performant, and user-centred applications.
 
-Junior Web Developer @ [Curve Royalty Systems ]([url](https://www.curveroyaltysystems.com/))
+With a decade in the music industry before moving into tech, I bring strong communication, creative problem-solving, and collaboration skills to every project. I’m passionate about crafting intuitive digital experiences that balance technical excellence with thoughtful design.
+
+Mid Level Web Developer @ [Curve Royalty Systems ]([url](https://www.curveroyaltysystems.com/))
 Thriving in an Agile environment where I balance both development and support duties. A typical day involves:
 
 - Proactively identifying and resolving bugs
 - Re-architecting legacy code
+- Enhancing UI consistency and restructured components for scalability
+- Developing and maintaining front-end components
 - Creating and implementing new features 
 - Collaborating closely with our QA, Product, and Client Management teams to align development goals with client needs
 
-A recent highlight was the successful integration of Spotify's API into our system. Allowing users to seamlessly import their catalogues in bulk.
+A recent highlight was the successful integration of Spotify's API into our system. Building both the backend and frontend, this allowed users to seamlessly import their catalogues in bulk.
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoeOsborne77)   -->
 ## PROJECTS
